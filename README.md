@@ -1,28 +1,41 @@
 ![Portada del Proyecto](recursos/img/portada_eda_matrix.png)
 
-## 🐇 Descripción del Proyecto
+## 🐇 Descripción del EDA
 
-Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre la saga cinematográfica. El objetivo es contrastar algunas afirmaciones, polémicas para quienes somos defensores de su calidad como obra, que suelen realizarse acerca de la trilogía original ([_The Matrix_](https://letterboxd.com/film/the-matrix/), [_The Matrix Reloaded_](https://letterboxd.com/film/the-matrix-reloaded/) y [_The Matrix Revolutions_](https://letterboxd.com/film/the-matrix-revolutions/)). Mis hipótesis hablarán sobre la repercusión de la trilogía en el cine moderno, abordarán el nexo entre su popularidad y los papers de las últimas décadas y, por último, el motivo por el que la saga no se arraigó entre las mejores de la historia.
+En 1999, el mundo se encontró con una pregunta incómoda: **¿y si todo lo que percibes como real no lo es?**
 
-Lo interesante del proyecto no es solo conocer un poco más en profundidad la saga, sino también tocar temas tan curiosos como la proliferación de los **efectos especiales** en el séptimo arte, cómo ha evolucionado el género de la **ciencia ficción**, si es posible que **nuestra realidad sea una simulación** o cómo son los **guiones de la saga**, que serán muy relevantes para poder comprobar si la trilogía fue empeorando en calidad narrativa o es que los espectadores no se preocuparon en explorar la historia más allá de la gran pantalla.  
+En _The Matrix_, el protagonista descubre que **la humanidad vive atrapada en una simulación digital** creada por máquinas, mientras sus cuerpos son utilizados como fuente de energía. 
+
+La película consiguió combinar filosofía, acción y efectos visuales nunca vistos hasta entonces y con sus sagas dividió al público entre quienes la vivieron como puro entretenimiento y quienes vieron en ella algo mucho más profundo.
+
+Este EDA (Análisis Exploratorio de Datos) nace precisamente de esa batalla de audiencia. Y es a través de los datos que busco explorar el impacto real de la saga. Por eso, me pregunto si realmente revolucionó el cine de ciencia ficción, si su temática trascendió la pantalla hasta llegar a la comunidad científica y si las secuelas fueron realmente peores o simplemente más difíciles de comprender.
 
 ## 💊 Hipótesis
 
-1.- **_The Matrix_ revolucionó el género de la ciencia ficción:** la película estableció un nuevo estándar de inversión en efectos visuales, alterando la distribución de presupuestos en el posterior cine de ciencia ficción. A partir de entonces, Las películas del género optaron por impulsar los efectos digitales, incluso imitando algunos de los alucinantes trucos de la trilogía.
+#### 1.- **_The Matrix_ revolucionó el género de la ciencia ficción** 
 
-2.- **¿Vivimos en una simulación? Ciencia ficción vs Papers**: existe un incremento significativo en la producción académica sobre la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) en el campo de la Astrofísica y la Cosmología a raíz del estreno de _The Matrix_, consolidando a la saga como un referente más allá de la ficción.
+La película estableció un nuevo estándar de inversión en películas de ciencia ficción. A partir de entonces, las películas del género optaron por impulsar los efectos digitales, con lo que los presupuestos y los especialistas en VFX aumentaron en número por el uso de nuevas tecnologías para dejar con la boca abierta a los espectadores.
 
-3.- **El declive de la saga: ¿motivada por el descenso de calidad?**: se propone que con una mayor narrativa y más términos complejos, menor es la conexión emocional y la valoración del público general. En realidad, quizás las películas no eran peores, sino que no llegaron a ser comprendidas.
+#### 2.- **La realidad como simulación: ciencia ficción vs papers**
+
+Existe un incremento significativo en la producción académica sobre la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) en el campo de la Astrofísica y la Cosmología a raíz del estreno de _The Matrix_, consolidando a la saga como un referente más allá de la ficción.
+
+#### 3.- **El declive de la saga: ¿motivada por el descenso de calidad?**
+
+Se propone que con una mayor narrativa y más términos complejos, menor es la conexión emocional y la valoración del público general. En realidad, quizás las películas no eran peores, sino que no llegaron a ser comprendidas.
 
 ## 🔌 Datos
 
-Dado que la temática de las hipótesis es variada, también lo serán las distintas fuentes de datos que tengo que utilizar para poder contrastarlas. En este caso, a continuación muestro cada hipótesis y las fuentes que serán utilizadas:
+Dado que la temática de las hipótesis es variada, también lo serán las distintas fuentes de datos que tengo que utilizar para poder contrastarlas. **A continuación muestro cada hipótesis y las fuentes** que serán utilizadas:
 
-1.- **_The Matrix_ revolucionó el género de la ciencia ficción:** utilizo datasets de métricas de cine, obtenidos de Kaggle. En concreto, uso [IMDb Dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset) y [TMDB 5000 Movie Dataset.](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+#### Fuentes Hipótesis 1 (__The Matrix_ revolucionó el género de la ciencia ficción_)
+Utilizo datasets de métricas de cine, obtenidos de Kaggle. En concreto, uso [IMDb Dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset) y [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
-2.- **¿Vivimos en una simulación? Ciencia ficción vs Papers**: para contrastar la hipótesis uso las librerías arXiv y scholarly. Además, también miraré si me resulta de utilidad la API de [OpenAlex](https://openalex.org/).
+#### Fuentes Hipótesis 2 (_La realidad como simulación: ciencia ficción vs papers_)
+Para contrastar la hipótesis uso las **librerías arXiv y scholarly**. Además, también miraré si me resulta de utilidad la API de [OpenAlex](https://openalex.org/). Aquí debajo muestro un ejemplo del uso de la librería de arXiv para poder encontrar papers científicos que remitan a conceptos de simulación.
 
-3.- **El declive de la saga: ¿motivada por el descenso de calidad?**: para acabar he eligo unos datasets muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en Kaggle bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts).
+#### Fuentes Hipótesis 3 (_El declive de la saga: ¿motivada por el descenso de calidad?_)
+Para acabar he eligo unos datasets muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en Kaggle bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts).
 
 ## 💻 Tecnologías Utilizadas
 
@@ -36,7 +49,7 @@ Dado que la temática de las hipótesis es variada, también lo serán las disti
 
 * **Apoyo presentación y archivos:** Gemini (Nano Banana 2)
 
-## 💾 Estructura del [Repositorio]()
+## 💾 Estructura del [Repositorio](https://github.com/RobertoCantero82/EDA_matrix_decodificada)
 
 #### CARPETAS:
 
