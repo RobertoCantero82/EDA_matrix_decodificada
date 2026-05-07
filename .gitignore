@@ -1,0 +1,15 @@
+# --- DATOS PESADOS (CUIDADO AQUÍ) ---
+# Ignoramos la carpeta de brutos para que GitHub no se bloquee con archivos grandes
+src/datos/brutos/
+
+# --- ARCHIVOS TEMPORALES Y DE SISTEMA ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# --- ENTORNOS VIRTUALES ---
+venv/
+env/
+.env
