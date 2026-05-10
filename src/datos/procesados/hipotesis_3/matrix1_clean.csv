@@ -1,0 +1,623 @@
+Character_Name,Character_dialogue,num_palabras,sentimiento
+Cypher, Yeah.,1,0.296
+Trinity, Is everything in place?,4,0.0
+Cypher, You weren't supposed to relieve me.,6,-0.2755
+Trinity," I know, but I felt like taking your shift.",9,0.5023
+Cypher," You like him, don't you? You like watching him.",9,0.6124
+Trinity, Don't be ridiculous.,3,0.2755
+Cypher," We're going to kill him, do you understand that?",9,-0.6908
+Trinity, Morpheus believes he is The One.,6,0.0
+Cypher, Do you?,2,0.0
+Trinity, It doesn't matter what I believe.,6,-0.0191
+Cypher," You don't, do you?",4,0.0
+Trinity, Did you hear that?,4,0.0
+Cypher, Hear what?,2,0.0
+Trinity, Are you sure this line is clean?,7,0.6124
+Cypher," Yeah, course I'm sure.",4,0.5423
+Trinity, I better go.,3,0.4404
+Cop," Freeze, Police. Hands on your head. Do it. Do it now.",11,0.0516
+Agent Smith, Lieutenant,1,0.0
+Lieutenant, Oh shit.,2,-0.5574
+Agent Smith," Lieutenant, you were given specific orders.",6,0.0
+Lieutenant," Hey, I'm just doing my job. You give me that juris-my-dick-tion crap, you can cram it up your ass.",19,-0.7269
+Agent Smith, The orders were for your protection.,6,0.0
+Lieutenant, I think we can handle one little girl. I sent two units. They're bringing her down now.,17,0.0
+Agent Smith," No Lieutenant, your men are already dead.",7,-0.7579
+Trinity," Morpheus, the line was traced, I don't know how.",9,0.0
+Morpheus," I know, they cut the hard line. There's no time, you're going to have to get to another exit.",19,-0.5719
+Trinity, Are there any agents?,4,0.0
+Morpheus, Yes.,1,0.4019
+Trinity, Goddammit.,1,0.0
+Morpheus," You have to focus, Trinity. There's a phone at Wells and Lake. You can make it.",16,0.25
+Trinity, All right.,2,0.0
+Morpheus, Go.,1,0.0
+Cop, That's impossible.,2,0.0
+Trinity," Get up, Trinity. Just get up. Get up.",8,0.0
+Agent Brown, She got out.,3,0.0
+Agent Smith, It doesn't matter.,3,-0.0191
+Agent Jones, The informant is real.,4,0.0
+Agent Smith, Yes.,1,0.4019
+Agent Jones, We have the name of their next target.,8,0.0
+Agent Brown, The name is Neo.,4,0.0
+Agent Smith, We'll need a search running.,5,0.0
+Agent Jones, It's already begun.,3,0.0
+Neo, What? What the hell? Follow the white rabbit? Who is it?,11,-0.7622
+Choi, It's Choi.,2,0.0
+Neo, Yeah. Yeah. You're two hours late.,6,0.5267
+Choi," I know, it's her fault.",5,-0.4019
+Neo, You got the money?,4,0.0
+Choi, Two grand.,2,0.4588
+Neo, Hold on.,2,0.0
+Choi," Hallelujah. You're my savior, man. My own personal Jesus Christ.",10,0.6124
+Neo, You get caught using that,5,0.0
+Choi," Yeah, I know. This never happened. You don't exist.",9,0.296
+Neo, Right.,1,0.0
+Choi," Something wrong, man? You look a little whiter than usual.",10,-0.4767
+Neo," My computer, it You ever have that feeling where you're not sure if you're awake or still dreaming?",18,-0.1184
+Choi," Mm, all the time. It's called Mescaline. It's the only way to fly. Hey, it just sounds to me like you need to unplug, man. You know, get some R and R. What do you think, DuJour? Should we take him with us?",43,0.4329
+DuJour, Definitely.,1,0.4019
+Neo," No, I can't, I got work tomorrow.",7,-0.296
+DuJour," Come on, It'll be fun. I promise.",7,0.6808
+Neo," Yeah, sure, I'll go.",4,0.5423
+Trinity, Hello Neo.,2,0.0
+Neo, How do you know that name?,6,0.0
+Trinity, I know a lot about you.,6,0.0
+Neo, Who are you?,3,0.0
+Trinity, My name is Trinity.,4,0.0
+Neo, Trinity. The Trinity? The one that cracked the IRS d-base?,10,0.0
+Trinity, That was a long time ago.,6,0.0
+Neo, Jesus.,1,0.0
+Trinity, What?,1,0.0
+Neo," I just thought, umyou were a guy.",7,0.0
+Trinity, Most guys do.,3,0.0
+Neo, That was you on my computer. How did you do that?,11,0.0
+Trinity, Right now all I can tell you is that you're in danger. I brought you here to warn you.,19,-0.5859
+Neo, Of what?,2,0.0
+Trinity," They're watching you, Neo.",4,0.0
+Neo, Who is?,2,0.0
+Trinity," Please just listen. I know why you're here, Neo. I know what you've been doing. I know why you hardly sleep, why you live alone, and why night after night you sit at your computer. You're looking for him. I know, because I was once looking for the same thing. And when he found me, he told me I wasn't really looking for him. I was looking for an answer. It's the question that drives us, Neo. It's the question that brought you here. You know the question just as I did.",92,0.0772
+Neo, What is the Matrix?,4,0.0
+Trinity," The answer is out there, Neo. It's looking for you. And it will find you, if you want it to.",20,0.0772
+Neo, Oh shit. Oh shit shit shit.,6,-0.9371
+Mr. Rhineheart," You have a problem with authority, Mr. Anderson. You believe that you are special, that somehow the rules do not apply to you. Obviously you are mistaken. This company is one of the top software companies in the world because every single employee understands that they are part of a whole. Thus if an employee has a problem, the company has a problem. The time has come to make a choice, Mr. Anderson. Either you choose to be at your desk on time from this day forward or you choose to find yourself another job. Do I make myself clear?",100,-0.4939
+Neo," Yes, Mr. Rhineheart, perfectly clear.",5,0.8591
+Fed-Ex Man, Thomas Anderson?,2,0.0
+Neo," Yeah, that's me.",3,0.296
+Fed-Ex Man," Just sign here.. Ok, great. Have a nice day.",9,0.8442
+Neo, Hello.,1,0.0
+Morpheus, Hello Neo. Do you know who this is?,8,0.0
+Neo, Morpheus.,1,0.0
+Morpheus," Yes. I've been looking for you, Neo. I don't know if you're ready to see what I want to show you, but unfortunately you and I have run out of time. They're coming for you, Neo, and I don't know what they're going to do.",45,-0.09
+Neo, Who's coming for me?,4,0.0
+Morpheus, Stand up and see for yourself.,6,0.0
+Neo," What, right now?",3,0.0
+Morpheus," Yes, now. Do it slowly. The elevator.",7,0.4019
+Neo, Oh shit.,2,-0.5574
+Morpheus, Yes.,1,0.4019
+Neo, What the hell do they want from me?,8,-0.6486
+Morpheus," I don't know, but if you don't want to find out I suggest you get out of there.",18,-0.0857
+Neo, How?,1,0.0
+Morpheus, I can guide you but you must do exactly as I say.,12,0.0
+Neo, Ok.,1,0.296
+Morpheus, The cubicle across from you is empty.,7,-0.2023
+Neo, What if they,3,0.0
+Morpheus," Go, now Stay here for just a moment. When I tell you, go to the end of the row, to the office at the end of the hall. Stay as low as you can Go, now Good. Now, outside there is a scaffold.",43,0.2023
+Neo, How do you know all this?,6,0.0
+Morpheus," We don't have time, Neo. To your left there's a window. Go to it Open it. You can use the scaffold to get to the roof.",26,0.0
+Neo, No way. No way. This is crazy.,7,-0.7003
+Morpheus," There are two ways out of this building. One is that scaffold, the other is in their custody. You take a chance either way. I leave it to you.",29,0.2023
+Neo, This is insane. Why is this happening to me? What did I do? I'm nobody. Shit. I can't do this.,20,-0.7691
+Trinity, Shit.,1,-0.5574
+Agent Smith," As you can see, we've had our eye on you for some time now, Mr. Anderson. It seems that you've been living two lives. In one life, you're Thomas A. Anderson, program writer for a respectable software company, you have a social security number, you pay your taxes, and you help your landlady carry out her garbage. The other life is lived in computers, where you go by the hacker alias Neo and are guilty of virtually every computer crime we have a law for. One of these lives has a future, and one of them does not. I'm going to be as forthcoming as I can be, Mr. Anderson. You're here because we need your help. We know that you've been contacted by a certain individual, a man who calls himself Morpheus. Now whatever you think you know about this man is irrelevant. He is considered by many authorities to be the most dangerous man alive. My colleagues believe that I am wasting my time with you but I believe that you wish to do the right thing. We're willing to wipe the slate clean, give you a fresh start and all that we're asking in return is your cooperation in bringing a known terrorist to justice.",208,0.8265
+Neo," Yeah. Wow, that sound like a really good deal. But I think I got a better one. How about I give you the finger and you give me my phone call.",31,0.8656
+Agent Smith," Um, Mr. Anderson. You disappoint me.",6,-0.4019
+Neo, You can't scare me with this Gestapo crap. I know my rights. I want my phone call.,17,0.0844
+Agent Smith," And tell me, Mr. Anderson, what good is a phone call if you're unable to speak? You're going to help us, Mr. Anderson whether you want to or not.",29,0.7096
+Morpheus," This line is tapped, so I must be brief. They got to you first, but they've underestimated how important you are. If they knew what I know, you'd probably be dead.",31,-0.8126
+Neo, What are you talking about. What what is happening to me?,11,0.0
+Morpheus," You are The One, Neo. You see, you may have spent the last few years looking for me, but I've spent my entire life looking for you. Now do you still want to meet?",34,0.1154
+Neo, Yes.,1,0.4019
+Morpheus, Then go to the Adams street Bridge.,7,0.0
+Trinity, Get in.,2,0.0
+Neo, What the hell is this?,5,-0.6808
+Trinity," It's necessary, Neo. For our protection.",6,0.0
+Neo, From what.,2,0.0
+Trinity, From you.,2,0.0
+Switch, Take off your shirt.,4,0.0
+Neo, What?,1,0.0
+Switch," Stop the car. Listen to me, coppertop. We don't have time for twenty questions. Right now there's only one rule, our way or the highway.",25,-0.296
+Neo, Fine.,1,0.2023
+Trinity," Please, Neo. You have to trust me",7,0.6808
+Neo, Why?,1,0.0
+Trinity," Because you have been down there, Neo. You know that road. You know exactly where it ends. And I know that's not where you want to be Apoc, lights. Lie back, lift up your shirt.",35,-0.0572
+Neo, What is that thing?,4,0.0
+Trinity, We think you're bugged Try and relax Come on. Come on.,11,0.4404
+Switch, It's on the move.,4,0.0
+Trinity, Shit.,1,-0.5574
+Switch, You're going to lose it.,5,-0.4019
+Trinity, No I'm not. Clear.,4,-0.5242
+Neo," Jesus Christ, that thing's real?",5,0.0
+Trinity, This is it. Let me give you one piece of advice. Be honest. He knows more than you can imagine.,20,0.5106
+Morpheus," At last. Welcome, Neo. As you no doubt have guessed, I am Morpheus.",13,-0.1779
+Neo, It's an honor to meet you.,6,0.4939
+Morpheus," No, the honor is mine. Please, come. Sit. I imagine that right now you're feeling a bit like Alice, tumbling down the rabbit hole? Hm?",25,0.7691
+Neo, You could say that.,4,0.0
+Morpheus," I can see it in your eyes. You have the look of a man who accepts what he sees because he is expecting to wake up. Ironically, this is not far from the truth. Do you believe in fate, Neo?",40,0.5574
+Neo, No.,1,-0.296
+Morpheus, Why not?,2,0.0
+Neo, Because I don't like the idea that I'm not in control of my life.,14,-0.2755
+Morpheus, I know exactly what you mean. Let me tell you why you're here. You're here because you know something.,19,0.0
+Neo, The Matrix?,2,0.0
+Morpheus," Do you want to know what it is? The Matrix is everywhere. It is all around us, even now in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work, when you go to church, when you pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth.",76,-0.128
+Neo, What truth?,2,0.3182
+Morpheus," That you are a slave, Neo. Like everyone else you were born into bondage, born into a prison that you cannot smell or taste or touch. A prison for your mind. Unfortunately, no one can be told what the Matrix is. You have to see it for yourself. This is your last chance. After this there is no turning back. You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes Remember, all I'm offering is the truth, nothing more Follow me Apoc, are we online?",115,-0.743
+Apoc, Almost.,1,0.0
+Morpheus," Time is always against us. Please, take a seat there.",10,0.3182
+Neo, You did all this?,4,0.0
+Trinity, Uh-huh.,1,0.0
+Morpheus, The pill you took is part of a trace program. It's designed to disrupt your input/output carrier signals so we can pinpoint your location.,24,0.0
+Neo, What does that mean?,4,0.0
+Cypher," It means buckle your seat belt, Dorothy, 'cause Kansas is going bye-bye.",12,0.0
+Neo, Did you,2,0.0
+Morpheus," Have you ever had a dream, Neo, that you were so sure was real? What if you were unable to wake from that dream? How would you know the difference between the dream world and the real world?",38,0.8192
+Neo, This can't be,3,0.0
+Morpheus, Be what? Be real?,4,0.0
+Trinity, It's going into replication.,4,0.0
+Morpheus, Apoc?,1,0.0
+Apoc, Still nothing.,2,0.0
+Neo, It's cold. It's cold.,4,0.0
+Morpheus," Tank, we're going to need a signal soon.",8,0.0
+Trinity, We've got a fibrillation!,4,0.0
+Morpheus," Apoc, location!",2,0.0
+Apoc," Targeting, almost there.",3,0.0
+Trinity, He's going into arrest!,4,-0.4003
+Apoc," Lock, I got him.",4,0.0
+Morpheus," Now, Tank. Now!",3,0.0
+Morpheus," Welcome to the real world We've done it, Trinity. We've found him.",12,0.4588
+Trinity, I hope you're right.,4,0.4404
+Morpheus, I don't have to hope. I know it.,8,-0.3412
+Neo, Am I dead?,3,-0.6486
+Morpheus, Far from it.,3,0.0
+Dozer, He still needs a lot of work.,7,0.0
+Neo, What are you doing?,4,0.0
+Morpheus," Your muscles have atrophied, we're rebuilding them.",7,0.0
+Neo, Why do my eyes hurt?,5,-0.5267
+Morpheus," You've never used them before. Rest, Neo. The answers are coming.",11,0.0
+Neo," Morpheus, what's happened to me? What is this place?",9,0.0
+Morpheus, More important than What?' is When?',6,0.3513
+Neo, When?,1,0.0
+Morpheus," You believe it's the year 1999 when in fact it's closer to 2199. I can't tell you exactly what year it is because we honestly don't know. There's nothing I can say that will explain it for you, Neo. Come with me. See for yourself. This is my ship, the Nebuchadnezzar. It's a hovercraft. This is the main deck. This is the core where we broadcast our pirate signal and hack into the Matrix. Most of my crew you already know. This is Apoc, Switch, and Cypher.",87,0.4588
+Cypher, Hi.,1,0.0
+Morpheus," The ones you don't know, Tank and his big brother, Dozer. The little one behind you is Mouse. You wanted to know what the Matrix is, Neo? Trinity Try to relax. This will feel a little weird.",37,0.3597
+Morpheus," This is the construct. It's our loading program. We can load anything from clothing, to equipment, weapons, training simulations, anything we need.",22,-0.4404
+Neo, Right now we're inside a computer program?,7,0.0
+Morpheus, Is it really so hard to believe? Your clothes are different. The plugs in your arms and head are gone. Your hair has changed. Your appearance now is what we call residual self image. It is the mental projection of your digital self.,43,-0.2991
+Neo, Thisthis isn't real?,3,0.0
+Morpheus," What is real? How do you define real? If you're talking about what you can feel, what you can smell, what you can taste and see, then real is simply electrical signals interpreted by your brain. This is the world that you know. The world as it was at the end of the twentieth century. It exists now only as part of a neural-interactive simulation that we call the Matrix. You've been living in a dream world, Neo. This is the world as it exists today Welcome.. to the desert.. of the real. We have only bits and pieces of information but what we know for certain is that at some point in the early twenty-first century all of mankind was united in celebration. We marveled at our own magnificence as we gave birth to AI.",136,0.9154
+Neo, AI? You mean artificial intelligence?,5,0.5362
+Morpheus," A singular consciousness that spawned an entire race of machines. We don't know who struck first, us or them. But we know that it was us that scorched the sky. At the time they were dependent on solar power and it was believed that they would be unable to survive without an energy source as abundant as the sun. Throughout human history, we have been dependent on machines to survive. Fate, it seems, is not without a sense of irony. The human body generates more bio-electricity than a 120-volt battery and over 25,000 BTUs of body heat. Combined with a form of fusion, the machines have found all the energy they would ever need. There are fields, endless fields, where human beings are no longer born. We are grown. For the longest time I wouldn't believe it, and then I saw the fields with my own eyes. Watch them liquefy the dead so they could be fed intravenously to the living. And standing there, facing the pure horrifying precision, I came to realize the obviousness of the truth. What is the Matrix? Control. The Matrix is a computer generated dream world built to keep us under control in order to change a human being into this.",206,-0.9217
+Neo, No. I don't believe it. It's not possible.,8,-0.296
+Morpheus," I didn't say it would be easy, Neo. I just said it would be the truth.",16,0.6369
+Neo, No. Stop. Let me out. Let me out. I want out.,11,-0.4767
+Trinity," Easy, Neo. Easy.",3,0.7003
+Neo, Take this thing off me. Take this thing,8,0.0
+Morpheus, Listen to me,3,0.0
+Neo, Don't touch me. Stay away from me. I don't want it. I don't believe it. I don't believe it.,19,-0.0572
+Cypher, He's gonna pop.,3,0.0
+Morpheus," Breathe, Neo. Just breathe.",4,0.0
+Neo," I can't go back, can I?",6,0.0
+Morpheus," No. But if you could, would you really want to? I feel I owe you an apology. We have a rule. We never",23,0.1505
+"free a mind once it's reached a certain age. It's dangerous, the mind has trouble letting go. I've seen it before and I'm sorry. I did what I did becauseI had to. When the Matrix was first built, there was a man born inside who had the ability to change whatever he wanted, to remake the Matrix as he saw fit. It was he who freed the first of us, taught us the truth"," As long as the Matrix exists the human race will never be free.' After he died the Oracle prophesized his return and that his coming would hail the destruction of the Matrix, end the war, bring freedom to our people. That is why there are those of us who have spent our entire lives searching the Matrix looking for him. I did what I did because I believe that search is over. Get some rest, you're going to need it.",80,-0.7717
+Neo, For what?,2,0.0
+Morpheus, Your training.,2,0.0
+Tank," Morning, did you sleep? You will tonight, I guarantee it. I'm Tank, I'll be your operator.",16,0.25
+Neo, You don'tyou don't have any,5,0.0
+Tank," Holes? Nope. Me and my brother Dozer, we're both one hundred percent pure, old fashioned, home-grown human, born free right here in the real world. Genuine child of Zion.",29,0.5106
+Neo, Zion?,1,0.0
+Tank," If the war was over tomorrow, Zion's where the party would be.",12,-0.296
+Neo, It's a city?,3,0.0
+Tank, The last human city. The only place we have left.,10,0.0
+Neo, Where is it?,3,0.0
+Tank," Deep underground, near the earth's core where it's still warm. You live long enough, you might even see it. Goddamn, II got to tell you, I'm fairly excited to see what you're capable of, if Morpheus is right and allWe're not supposed to talk about this, but if you areDamn, it's a very exciting time. We got a lot to do. Let's get to it. Now, we're supposed to start with these operation programs first, that's major boring shit. Let's do something a little more fun. How about combat training?",90,0.0417
+Neo, Jujitsu? I'm going to learn Jujitsu? Holy shit.,8,-0.6072
+Tank," Hey Mikey, I think he likes it. How about some more?",11,0.4215
+Neo, Hell yes.,2,-0.4404
+Morpheus, How is he?,3,0.0
+Tank, Ten hours straight. He's a machine.,6,0.2263
+Neo, I know Kung Fu.,4,-0.6908
+Morpheus, Show me.,2,0.0
+Morpheus," This is a sparring program, similar to the programmed reality of the Matrix. It has the same basic rules, rules like gravity. What you must learn is that these rules are no different that the rules of a computer system. Some of them can be bent. Others can be broken. Understand? Then hit me. If you can. Good. Adaptation, improvisation. But your weakness is not your technique.",67,-0.5647
+Mouse, Morpheus is fighting Neo.,4,-0.3612
+Morpheus, How did I beat you?,5,0.0
+Neo, You're too fast.,3,0.0
+Morpheus, Do you believe that my being stronger or faster has anything to do with my muscles in this place? You think that's air you're breathing now? Again.,27,0.4515
+Mouse," Jesus Christ, he's fast. Take a look at his neural kinetics, they're way above normal.",15,0.0
+Morpheus," What are you waiting for? You're faster than this. Don't think you are, know you are. Come on. Stop *trying* to hit me and HIT me.",26,-0.296
+Mouse, I don't believe it.,4,0.0
+Neo, I know what you're trying to do.,7,0.0
+Morpheus," I'm trying to free your mind, Neo, but I can only show you the door, you're the one that has to walk through it. Tank, load the jump program. You have to let it all go, Neo, fear, doubt, and disbelief. Free your mind.",44,-0.2382
+Neo, Whoa. Okie dokie. Free my mind.,6,0.5106
+Mouse, So what if he makes it?,6,0.0
+Tank, No one's ever made the first jump.,7,-0.296
+Mouse," I know, I know. But what if he does?",9,0.0
+Apoc, He won't.,2,0.0
+Mouse, Come on.,2,0.0
+Trinity, Come on.,2,0.0
+Neo," All right, no problem. Free my mind. Free my mind. All right.",12,0.4019
+Mouse, Whawhat does that mean?,4,0.0
+Switch, It doesn't mean anything.,4,0.0
+Cypher," Everybody falls the first time. Right, Trin?",7,0.0
+Neo, I thought it wasn't real.,5,0.0
+Morpheus, Your mind makes it real.,5,0.0
+Neo," If you're killed in the Matrix, you die here?",9,-0.8555
+Morpheus, The body cannot live without the mind.,7,0.0
+Cypher," I don't remember you bringing me dinner. There is something about him, isn't there?",14,0.0
+Trinity, Don't tell me you're a believer now?,7,0.0
+Cypher," I just keep wondering, if Morpheus is so sure, why doesn't he take him to see the Oracle?",18,0.4572
+Trinity, Morpheus will take him when he's ready.,7,0.3612
+Morpheus," The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around. What do you see? Business people, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system, and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it. Were you listening to me, Neo, or were you looking at the woman in the red dress?",108,-0.9168
+Neo, I was,2,0.0
+Morpheus, Look again. Freeze it.,4,0.0516
+Neo, Thisthis isn't the Matrix?,4,0.0
+Morpheus," No. It's another training program designed to teach you one thing. If you are not one of us, you are one of them.",23,-0.296
+Neo, What are they?,3,0.0
+Morpheus," Sentient programs. They can move in and out of any software still hard-wired to their system. That means that anyone we haven't unplugged is potentially an agent. Inside the Matrix, they are everyone and they are no one. We are survived by hiding from them by running from them. But they are the gatekeepers. They are guarding all the doors. They are holding all the keys, which means that sooner or later, someone is going to have to fight them.",80,-0.5346
+Neo, Someone?,1,0.0
+Morpheus," I won't lie to you, Neo. Every single man or woman who has stood their ground, everyone who has fought an agent has died.But where they have failed, you will succeed.",31,-0.34
+Neo, Why?,1,0.0
+Morpheus," I've seen an agent punch through a concrete wall. Men have emptied entire clips at them and hit nothing but air. Yet their strength and their speed are still based in a world that is built on rules. Because of that, they will never be as strong or as fast as you can be.",54,0.102
+Neo," What are you trying to tell me, that I can dodge bullets?",12,0.0
+Morpheus," No Neo. I'm trying to tell you that when you're ready, you won't have to.",15,0.0772
+Tank, We've got trouble.,3,-0.4019
+Morpheus, Did Zion send a warning?,5,-0.34
+Dozer," No, another ship. Shit. Squiddies sweeping in quick.",8,-0.7003
+Neo, Squiddy?,1,0.0
+Trinity, A sentinel. Killing machine designed for one thing.,8,-0.6597
+Dozer, Search and destroy.,3,-0.5423
+Morpheus," Set her down right over there. How're we doing, Tank?",10,0.0
+Tank, Power offline. EMP armed and ready.,6,0.25
+Neo, EMP?,1,0.0
+Trinity, Electromagnetic pulse. Disables any electrical system in the blast radius. It's the only weapon we have against the machines.,19,-0.296
+Neo, Where are we?,3,0.0
+Trinity, There old service and waste systems.,6,-0.4215
+Neo, Sewers?,1,0.0
+Trinity, They used to be cities that spanned hundreds of miles. Now these sewers are all that's left of them.,19,0.0
+Morpheus, Quiet.,1,0.0
+Cypher," Whoa, Neo. You scared the bejeezus out of me.",9,-0.4404
+Neo, Sorry.,1,-0.0772
+Cypher, It's okay.,2,0.2263
+Neo, Is that,2,0.0
+Cypher, The Matrix? Yeah.,3,0.296
+Neo, Do you always look at it encoded?,7,0.0
+Cypher," Well you have to. The image translators work for the construct program. But there's way too much information to decode the Matrix. You get used to it. II don't even see the code. All I see is blonde, brunette, red-head. Hey, you uh want a drink?",46,0.25
+Neo, Sure,1,0.3182
+Cypher," You know, I know what you're thinking, because right now I'm thinking the same thing. Actually, I've been thinking it ever since I got here. Why, oh why didn't I take the blue pill? Good shit, huh? Dozer makes it. It's good for two things, degreasing engines and killing brain cells. So, can I ask you something? Did he tell you why he did it? Why you're here. Jee-zus. What a mind job. So you're here to save the world. What do you say to something like that? A little piece of advice. You see an agent, you do what we do. Run. You run your ass off.",108,-0.4515
+Neo, Thanks for the drink.,4,0.4404
+Cypher, Sweet dreams.,2,0.6908
+Agent Smith," Do we have a deal, Mr. Reagan?",7,0.0
+Cypher," You know, I know this steak doesn't exist. I know that when I put it in my mouth, the Matrix is telling my brain that it is juicy and delicious. After nine years, you know what I realize? Ignorance is bliss.",41,0.7096
+Agent Smith, Then we have a deal?,5,0.0
+Cypher," I don't want to remember nothing. Nothing. You understand? And I want to be rich. You know, someone important. Like an actor.",22,0.7548
+Agent Smith," Whatever you want, Mr. Reagan.",5,0.0772
+Cypher," Okay. I get my body back into a power plant, re-insert me into the Matrix, I'll get you what you want.",21,0.296
+Agent Smith, Access codes to the Zion mainframe.,6,0.0
+Cypher," No, I told you, I don't know them. I can get you the man who does.",16,-0.296
+Agent Smith, Morpheus.,1,0.0
+Tank," Here you go, buddy. Breakfast of champions.",7,0.5267
+Mouse, If you close your eyes it almost feels like you're eating runny eggs.,13,0.3008
+Apoc," Yeah, or a bowl of snot",6,0.296
+Mouse, Do you know what it really reminds me of? Tasty Wheat. Did you ever eat Tasty Wheat?,17,0.0
+Switch," No, but technically, neither did you.",6,-0.1531
+Mouse," That's exactly my point. Exactly. Because you have to wonder now. How did the machines really know what Tasty Wheat tasted like. huh?. Maybe they got it wrong. Maybe what I think Tasty Wheat tasted like actually tasted like oatmeal or tuna fish. That makes you wonder about a lot of things. You take chicken for example, maybe they couldn't figure out what to make chicken taste like, which is why chicken tastes like everything. Maybe they couldn't figure out",80,0.8126
+Apoc," Shut up, Mouse.",3,0.0
+Dozer," It's a single cell protein combined with synthetic aminos, vitamins, and minerals. Everything the body needs.",16,0.0
+Mouse," It doesn't have everything the body needs. So I understand that you've run through the agent training program. You know, I wrote that program.",24,0.0
+Apoc, Here it comes.,3,0.0
+Mouse, So what did you think of her?,7,0.0
+Neo, Of who?,2,0.0
+Mouse," The woman in the red dress! I designed her. She, umwell she doesn't talk very much, butbut if you'd like to meet her, I can arrange a much more personalized milieu.",31,0.4199
+Switch," Digital pimp, hard at work.",5,-0.1027
+Mouse," Pay no attention to these hypocrites, Neo. To deny our own impulses is to deny the very thing that makes us human.",22,-0.7506
+Morpheus," Dozer, when you're done, bring the ship up to broadcast depth. We're going in. I'm taking Neo to see her.",20,0.0
+Neo, See who?,2,0.0
+Tank," The Oracle. Everyone please observe, the fasten seat belt and no smoking signs have been turned on. Sit back and enjoy your ride.",23,0.5106
+Morpheus, We're in. We'll be back in an hour.,8,0.0
+Morpheus," Unbelievable, isn't it?",3,0.2023
+Neo, God.,1,0.2732
+Trinity, What?,1,0.0
+Neo, I used to eat there. Really good noodles. I have these memories from my life. None of them happened. What does that mean?,23,0.4927
+Trinity, That the Matrix cannot tell you who you are.,9,0.0
+Neo, And an Oracle can?,4,0.0
+Trinity, That's different.,2,0.0
+Neo, Did you go to her?,5,0.0
+Trinity, Yes.,1,0.4019
+Neo, What did she tell you?,5,0.0
+Trinity, She told me,3,0.0
+Neo, What?,1,0.0
+Morpheus," We're here. Neo, come with me.",6,0.0
+Neo, So is this the same Oracle that made the prophecy?,10,0.0
+Morpheus, Yes. She's very old. She's been with us since the beginning.,11,0.4019
+Neo, The beginning?,2,0.0
+Morpheus, Of the Resistance.,3,0.0
+Neo," And she knows what, everything?",5,0.0
+Morpheus, She would say she knows enough.,6,0.0
+Neo, And she's never wrong.,4,0.3724
+Morpheus," Try not to think of it in terms of right and wrong. She is a guide, Neo. She can help you to find the path.",25,-0.1027
+Neo, She helped you?,3,0.0
+Morpheus, Yes.,1,0.4019
+Neo, What did she tell you?,5,0.0
+Morpheus, That I would find the one. I told you I can only show you the door. You have to walk through it.,22,0.0
+Priestess," Hello, Neo. You're right on time. Make yourself at home, Morpheus. Neo, come with me. These are the other potentials, you can wait here.",24,0.0
+Spoon boy, Do not try and bend the spoon. That's impossible. Instead only try to realize the truth.,16,0.3182
+Neo, What truth?,2,0.3182
+Spoon boy, There is no spoon.,4,-0.296
+Neo, There is no spoon?,4,-0.296
+Spoon boy," Then you'll see that it is not the spoon that bends, it is only yourself.",15,0.0
+Priestess, The Oracle will see you now.,6,0.0
+The Oracle," I know, you're Neo. Be right with you.",8,0.0
+Neo, You're The Oracle?,3,0.0
+The Oracle," Bingo. Not quite what you were expecting, right? Almost done. Smell good, don't they?",14,0.4582
+Neo, Yeah.,1,0.296
+The Oracle," I'd ask you to sit down, but your not going to anyway. And don't worry about the vase.",18,0.4782
+Neo, What vase?,2,0.0
+The Oracle, That vase.,2,0.0
+Neo, I'm sorry.,2,-0.0772
+The Oracle, I said don't worry about it. I'll get one of my kids to fix it.,15,0.3412
+Neo, How did you know?,4,0.0
+The Oracle," What's really going to bake your noodle later on is, would you still have broken it if I hadn't said anything. You're cuter than I thought. I can see why she likes you.",33,0.4588
+Neo, Who?,1,0.0
+The Oracle," Not too bright, though. You know why Morpheus brought you to see me?",13,-0.3412
+Neo, I think so.,3,0.0
+The Oracle," So, what do you think? Do you think you're The One?",11,0.0
+Neo, I don't know.,3,0.0
+The Oracle, You know what that means? It's Latin. Means Know thyself. I'm going to let you in on a little,19,0.0
+Neo, Ahhh.,1,0.0
+The Oracle," Okay. Now I'm supposed to say, Umm, that's interesting, but, then you say",13,0.5574
+Neo, But what?,2,0.0
+The Oracle, But you already know what I'm going to tell you.,10,0.0
+Neo, I'm not The One.,4,0.0
+Oracle," Sorry, kid. You got the gift, but it looks like you're waiting for something.",14,0.6187
+Neo, What?,1,0.0
+The Oracle," Your next life maybe, who knows? That's the way these things go. What's funny?",14,0.504
+Neo, Morpheus. He he almost had me convinced.,7,0.3477
+The Oracle, I know. Poor Morpheus. Without him we're lost.,8,-0.2819
+Neo," What do you mean, without him?",6,0.0
+The Oracle," Are you sure you want to hear this? Morpheus believes in you, Neo. And no one, not you, not even me can convince him otherwise. He believes it so blindly that he's going to sacrifice his life to save yours.",40,0.6808
+Neo, What?,1,0.0
+The Oracle," You're going to have to make a choice. In the one hand you'll have Morpheus' life and in the other hand you'll have your own. One of you is going to die. Which one will be up to you. I'm sorry, kiddo, I really am. You have a good soul, and I hate giving good people bad news. Oh, don't worry about it. As soon as you step outside that door, you'll start feeling better. You'll remember you don't believe in any of this fate crap. You're in control of your own life, remember? Here, take a cookie. I promise, by the time you're done eating it, you'll feel right as rain.",112,0.7721
+Morpheus, What was said was for you and for you alone.,10,-0.25
+Tank, They're on their way. What is that?,7,0.0
+Neo," Whoa, deja vu.",3,0.0
+Trinity, What did you just say?,5,0.0
+Neo," Nothing, I just had a little deja vu.",8,0.0
+Trinity, What did you see?,4,0.0
+Cypher, What happened?,2,0.0
+Neo," A black cat went past us, and then another that looked just like it.",14,0.3612
+Trinity," How much like it, was it the same cat?",9,0.3612
+Neo," Might have been, I'm not sure.",6,-0.2411
+Morpheus," Switch, Apoc.",2,0.0
+Neo, What is it?,3,0.0
+Trinity, Deja vu is usually a glitch in the Matrix. It happens when they change something.,15,0.0
+Tank, Oh my God.,3,0.2732
+Morpheus, Let's go.,2,0.0
+Tank," They cut the hard line, it's a trap! Get out!",10,-0.658
+Mouse, Oh no. Oh no.,4,-0.5267
+Cypher, That's what they changed. We're trapped. There's no way out.,10,-0.6808
+Morpheus, Be calm. Give me your phone.,6,0.3182
+Trinity, They'll be able to track it.,6,0.0
+Morpheus, We have no choice.,4,-0.296
+Tank, Operator.,1,0.0
+Morpheus, Tank. Find a structural drawing of this building. Find it fast.,11,0.0
+Tank, Got it.,2,0.0
+Morpheus, I need the main wet wall.,6,0.0
+Agent Smith, Eighth floor.,2,0.0
+Agent Brown, They're on the eighth floor.,5,0.0
+Morpheus," Switch, straight ahead.",3,0.2263
+Apoc, Neo. I hope the Oracle gave you some good news.,10,0.7003
+Tank," Another left, that's it.",4,0.0
+Morpheus, Good.,1,0.4404
+Agent Brown, Where are they?,3,0.0
+Police, They're in the walls. They're in the walls!,8,0.0
+Cypher, It's an agent!,3,0.0
+Trinity, Morpheus!,1,0.0
+Morpheus, You must get Neo out! He's all that matters.,9,0.1007
+Neo," No. No, Morpheus! Don't!",4,-0.6103
+Morpheus," Trinity, go!",2,0.0
+Trinity, Go!,1,0.0
+Neo, We can't leave him!,4,0.1129
+Trinity," You have to!. Cypher, come on!",6,0.0
+Agent Smith, The great Morpheus. We meet at last.,7,0.6249
+Morpheus, And you are?,3,0.0
+Agent Smith, Smith. Agent Smith.,3,0.0
+Morpheus, You all look the same to me.,7,0.0
+Agent Smith, Take him.,2,0.0
+Tank, No.,1,-0.296
+Tank, Operator.,1,0.0
+Cypher," Yeah, I need an exit fast.",6,0.296
+Tank, Cypher?,1,0.0
+Cypher," Yeah, there was an accident. Goddamn car accident. All of a sudden, boom. Somebody up there still likes me.",19,-0.6486
+Tank, Gotcha.,1,0.0
+Cypher, Get me out of here fast.,6,0.0
+Tank," Intersection of Franklin and Erie, an old TV repair shop.",10,0.0
+Cypher, Right.,1,0.0
+Trinity," Tank, it's me.",3,0.0
+Neo, Is Morpheus alive?,3,0.3818
+Cypher," Is Morpheus alive, Tank?",4,0.3818
+Tank, They're moving him. I don't know where to yet.,9,0.0
+Trinity, He's alive. We need an exit.,6,0.3818
+Tank, You're not far from Cypher.,5,0.0
+Trinity, Cypher?,1,0.0
+Tank, I know. He's at Franklin and Erie.,7,0.0
+Trinity, Got it.,2,0.0
+Tank, Got him.,2,0.0
+Cypher, Where are they?,3,0.0
+Tank, Making the call.,3,0.0
+Cypher, Good.,1,0.4404
+Trinity," You first, Neo.",3,0.0
+Cypher, Shoot.,1,-0.34
+Dozer, No!,1,-0.3595
+Neo," I don't know, it just went dead.",7,-0.6486
+Cypher," Hello, Trinity.",2,0.0
+Trinity, Cypher? Where's Tank?,3,0.0
+Cypher," You know, for a long time, I thought I was in love with you. I used to dream about you. You're a beautiful woman, Trinity. Too bad things had to turn out this way.",34,0.765
+Trinity, You killed them.,3,-0.6705
+Apoc, What?,1,0.0
+Switch, Oh God.,2,0.2732
+Cypher," I'm tired, Trinity. I tired of this war. I'm tired of fighting. I'm tired of this ship, being cold, eating the same goddamn goop everyday. But most of all, I'm tired of that jack-off and all his bullshit. Surprise, ass-hole! I bet you never saw this coming, didja? God, I wish I could be there, when they break you. I wish I could walk in just when it happens. So right then, you'd know it was me.",77,-0.8398
+Trinity, You gave them Morpheus.,4,0.0
+Cypher," He lied to us, Trinity. He tricked us. If you'da told us the truth, we woulda told you to shove that red pill right up your ass.",27,-0.6597
+Trinity," That's not true, Cypher, he set us free.",8,0.2425
+Cypher," Free? You call this free? All I do is what he tells me to do. If I had to choose between that and the Matrix, I choose the Matrix.",29,0.8193
+Trinity, The Matrix isn't real!,4,0.0
+Cypher," I disagree, Trinity. I think the Matrix can be more real than this world. All I do is pull the plug here. But there, you have to watch Apoc die.",30,-0.7992
+Apoc, Trinity.,1,0.0
+Switch, No.,1,-0.296
+Cypher," Welcome to the real world, huh, baby?",7,0.4588
+Trinity," But you're out, Cypher. You can't go back.",8,0.0
+Cypher," Oh no. That's what you think. They're going to reinsert my body. I go back to sleep, and when I wake up, I won't remember a goddamn thing. By the way, if you have anything terribly important to say to Switch, I suggest you say it now.",47,-0.3498
+Trinity," No, please don't.",3,0.0258
+Switch, Not like this. Not like this.,6,-0.4973
+Cypher, Too late.,2,0.0
+Trinity," Goddamn you, Cypher.",3,-0.4767
+Cypher," Don't hate me, Trinity. I'm just the messenger, and right now I'm gonna prove it to you. If Morpheus was right, then there's no way I can pull this plug. I mean if Neo's The One, then there'd have to be some kind of a miracle to stop me. Right? I mean how can he be The One if he's dead? You never did answer me before if you bought into Morpheus' bullshit  come on  all I want is a little yes or no. Look into his eyes, those big pretty eyes. Tell me. Yes or no?",99,-0.3244
+Trinity, Yes.,1,0.4019
+Cypher, No.,1,-0.296
+Cypher, I don't believe it.,4,0.0
+Tank," Believe it or not, you piece of shit, you're still gonna burn.",12,-0.5574
+Neo, You first.,2,0.0
+Trinity, You're hurt.,2,-0.5267
+Tank, I'll be all right.,4,0.0
+Trinity, Dozer?,1,0.0
+Agent Smith," Have you ever stood and stared at it, marveled at its beauty, its genius? Billions of people just living out their lives, oblivious. Did you know that the first Matrix was designed to be a perfect human world. Where none suffered. Where everyone would be happy. It was a disaster. No one would accept the program. Entire crops were lost. Some believed that we lacked the programming language to describe your perfect world. But I believe that as a species, human beings define their reality through misery and suffering. The perfect world was a dream that your primitive cerebrum kept trying to wake up from. Which is why the Matrix was redesigned to this, the peak of your civilization. I say your civilization because as soon as we started thinking for you it really became our civilization which is, of course, what this is all about. Evolution, Morpheus, evolution. Like the dinosaur. Look out that window. You had your time. The future is our world, Morpheus. The future is our time.",171,0.7823
+Agent Jones, There could be a problem.,5,-0.4019
+Neo, What are they doing to him?,6,0.0
+Tank," Breaking into his mind. It's like hacking into a computer, all it takes is time.",15,0.3612
+Neo, How much time?,3,0.0
+Tank," Depends on the mind. Eventually it will crack and his alpha patterns will change from this to this. When it does, Morpheus will tell them anything they want to know.",30,0.0772
+Neo," Well, what do they want?",5,0.34
+Tank," The leader of every ship is given codes to Zion's mainframe computer. If an agent got the codes and got into Zion's mainframe, it could destroy us. We can't let that happen.",32,-0.5423
+Neo, Trinity? Tank,2,0.0
+Neo, Well there has to be something that we can do.,10,0.2732
+Tank, There is. We pull the plug.,6,0.0
+Trinity, You're going to kill him? Kill Morpheus?,7,-0.8948
+Tank, We don't have any other choice.,6,0.0
+Agent Smith, Never send a human to do a machine's job.,9,0.0
+Agent Brown," If indeed the insider has failed, they'll sever the connection as soon as possible, unless",15,-0.5106
+Agent Jones," They're dead, in either case",5,-0.6486
+Agent Smith, We have no choice but to continue as planned. Deploy the sentinels. Immediately.,13,-0.1531
+Tank," Morpheus, you're more than a leader to us. You're our father. We'll miss you always.",15,-0.1531
+Neo, Stop. I don't believe this is happening.,7,-0.296
+Tank," Neo, this has to be done.",6,0.0
+Neo," Does it? I don't know, I this can't be just coincidence. It can't be.",14,0.0
+Tank, What are you talking about?,5,0.0
+Neo, The Oracle. She told me this would happen. She told me that I would have to make a choice.,19,0.0
+Trinity, What choice? What are you doing?,6,0.0
+Neo, I'm going in.,3,0.0
+Trinity, No you're not.,3,-0.296
+Neo, I have to.,3,0.0
+Trinity," Neo, Morpheus sacrificed himself so that he could get you out. There's no way that you're going back in.",19,-0.296
+Neo, Morpheus did what he did because he believed I am something I'm not.,13,0.0
+Trinity, What?,1,0.0
+Neo," I'm not the one, Trinity. The Oracle hit me with that too.",12,0.0
+Trinity, No. You have to be.,5,-0.296
+Neo," I'm not, I'm sorry. I'm just another guy.",8,0.0572
+Trinity," No, Neo. That's not true. It can't be true.",9,-0.7063
+Neo, Why?,1,0.0
+Tank," Neo, this is loco. They've got Morpheus in a military controlled building. Even if you somehow got inside, those are agents holding him. Three of them. I want Morpheus back too, but what you're talking about is suicide.",38,-0.7964
+Neo," I know that's what it looks like, but it's not. I can't explain to you why it's not. Morpheus believed something and he was ready to give his life for what he believed. I understand that now. That's why I have to go.",43,0.6124
+Tank, Why?,1,0.0
+Neo, Because I believe in something.,5,0.0
+Trinity, What?,1,0.0
+Neo, I believe I can bring him back. What are you doing?,11,0.0
+Trinity, I going with you.,4,0.0
+Neo, No you're not.,3,-0.296
+Trinity," No? Let me tell you what I believe. I believe Morpheus means more to me than he does to you. I believe if you're really serious about saving him, you are going to need my help. And since I am the ranking officer on this ship, if you don't like it, I believe you can go to hell. Because you aren't going anywhere else. Tank? Load us up.",68,-0.7999
+Agent Smith," I'd like to share a revelation I had during my time here. It came to me when I tried to classify your species. I realized that you're not actually mammals. Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment but you humans do not. You move to an area and you multiply until every natural resource is consumed. The only way you can survive is to spread to another area. There is another organism on this planet that follows the same pattern. Do you know what it is? A virus. Human beings are a disease, a cancer of this planet. You are a plague, and we are the cure.",114,-0.1901
+Tank," Okay. So what do you need, besides a miracle?",9,0.6908
+Neo, Guns. Lots of guns.,4,0.0
+Trinity," Neo, no one has ever done anything like this.",9,0.0772
+Neo, That's why it's going to work.,6,0.0
+Agent Smith, Why isn't the serum working?,5,0.0
+Agent Brown, Perhaps we're asking the wrong questions.,6,-0.4767
+Agent Smith, Leave me with him. Now.,5,-0.0516
+Tank," Hold on, Morpheus. They're coming for you. They're coming.",9,0.0
+Agent Smith," Can you hear me, Morpheus? I'm going to be honest with you. I hate this place, this zoo, this prison, this reality, whatever you want to call it. I can't stand it any longer. It's the smell. If there is such a thing. I feel.. saturated by it. I can taste your stink. And every time I do I feel I have somehow been infected by it, it's repulsive. I must get out of here. I must get free and in this mind is the key, my key. Once Zion is destroyed there is no need for me to be here, don't you understand? I need the codes. I have to get inside Zion, and you have to tell me how. You are going to tell me or you are going to die.",133,-0.9454
+Guard 1," Please remove any metallic items you're carrying, keys, loose change. Holy shit.",12,-0.5574
+Guard 2, Backup. Send backup.,3,0.0
+Soldier, Freeze.,1,0.0516
+Agent Jones, What were you doing?,4,0.0
+Agent Brown, He doesn't know.,3,0.0
+Agent Smith, Know what?,2,0.0
+Agent Jones, I think they're trying to save him.,7,0.4939
+Neo, There is no spoon.,4,-0.296
+Agent Smith, Find them and destroy them.,5,-0.5423
+Pilot," I repeat, we are under attack.",6,-0.4767
+Neo, Trinity! Help!,2,0.508
+Agent Jones, Only human.,2,0.0
+Trinity, Dodge this. How did you do that?,7,0.0
+Neo, Do what?,2,0.0
+Trinity, You moved like they do. I've never seen anyone move that fast.,12,0.3612
+Neo, Wasn't fast enough. Can you fly that thing?,8,0.0
+Trinity, Not yet.,2,0.0
+Tank, Operator.,1,0.0
+Trinity," Tank, I need a pilot program for a V-212 helicopter. Hurry. Let's go.",13,0.0
+Agent Smith, No.,1,-0.296
+Neo," Morpheus, get up. Get up, get up. He's not going to make it. Gotcha.",14,0.0
+Neo, Trinity.,1,0.0
+Tank, I knew it. He's the one.,6,0.0
+Morpheus," Do you believe it now, Trinity?",6,0.0
+Neo," Morpheus. The Oracle, she told me I'm",7,0.0
+Morpheus," She told you exactly what you needed to hear, that's all. Neo, sooner or later you're going to realize, just as I did, that there's a difference between knowing the path and walking the path.",35,0.0
+Tank, Operator.,1,0.0
+Morpheus, Tank.,1,0.0
+Tank," Goddamn. It's good to hear your voice, sir.",8,-0.0516
+Morpheus, We need an exit.,4,0.0
+Tank," Got one ready. Subway station, State and Balboa.",8,0.3612
+Agent Smith, Damn it.,2,-0.4019
+Agent Brown, The trace was completed.,4,0.0
+Agent Jones, We have their position.,4,0.0
+Agent Brown, The sentinels are standing by.,5,0.0
+Agent Jones, Order the strike.,3,-0.128
+Agent Smith, They're not out yet.,4,0.0
+Neo," You first, Morpheus.",3,0.0
+Trinity," Neo, I want to tell you something, but I'm afraid of what it could mean if I do. Everything the Oracle told me has come true. Everything but this.",29,0.5927
+Trinity, Neo.,1,0.0
+Tank, What just happened?,3,0.0
+Trinity, An agent. You have to send me back.,8,0.0
+Tank, I can't.,2,0.0
+Agent Smith, Mr. Anderson. We meet again.,5,0.0
+Trinity," Run, Neo. Run! What is he doing?",7,0.0
+Morpheus, He's beginning to believe.,4,0.0
+Agent Smith, You're empty.,2,-0.2023
+Neo, So are you.,3,0.0
+Agent Smith," I'm going to enjoy watching you die, Mr. Anderson.",9,-0.1779
+Trinity," Jesus, he's killing him.",4,-0.6597
+Agent Smith," Do you hear that, Mr. Anderson? That is the sound of inevitability. That is the sound of your death. Goodbye, Mr. Anderson.",22,-0.5994
+Neo, My name is Neo.,4,0.0
+Trinity, What happened?,2,0.0
+Tank, I don't know. I lost him. Oh shit.,8,-0.3895
+Trinity, Sentinels. How long?,3,0.0
+Morpheus," Five, maybe six minutes. Tank, charge the EMP.",8,0.0
+Trinity, You can't use that until he's out.,7,0.0
+Morpheus," I know, Trinity, don't worry. He's going to make it.",10,0.3412
+Man," Shit, that's my phone. That's my best phone.",8,0.1531
+Tank, Got him! He's on the run.,6,0.0
+Neo," Mr. Wizard, get me the hell out of here.",9,-0.6808
+Tank," Got a patch on an old exit, Wabash and Lake.",10,0.0
+Neo, Oh shit. Help. Need a little help.,7,0.1298
+Tank," Door. Door on your left. No, your other left. Back door.",11,-0.296
+Trinity, Oh no.,2,-0.296
+Morpheus, Here they come. He's going to make it.,8,0.0
+Tank, Fire escape at the end of the alley. Room 303.,10,-0.1779
+Tank, They're inside.,2,0.0
+Trinity," Hurry, Neo",2,0.0
+Morpheus, Can't be.,2,0.0
+Agent Smith, Check him.,2,0.0
+Agent Brown, He's gone.,2,0.0
+Agent Smith," Goodbye, Mr. Anderson.",3,0.0
+Trinity," Neo, I'm not afraid anymore. The Oracle told me that I would fall in love, and that that man, the man who I loved would be The One. So you see, you can't be dead. You can't be, because I love you. You hear me? I love you. Now get up.",51,0.968
+"Neo, The One", No.,1,-0.296
+Tank, How?,1,0.0
+Morpheus, He is The One.,4,0.0
+Trinity, No!,1,-0.3595
+"Neo, The One"," I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone and then I'm going to show these people what you don't want them to see. I'm going to show them a world without you, a world without rules and controls, without borders or boundaries, a world where anything is possible. Where we go from there is a choice I leave to you.",111,-0.1083

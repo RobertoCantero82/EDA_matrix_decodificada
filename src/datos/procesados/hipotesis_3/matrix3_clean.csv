@@ -1,0 +1,756 @@
+Character_Name,Character_dialogue,num_palabras,sentimiento
+AK,"I got nothing, sir. No sign of Niobe or Ghost. Nothin’ but blue pills.",14,-0.0531
+Mauser,Should we jack in and try to contact them?,9,0.0
+Roland,It wouldn’t matter. My gut says they’re down.,8,0.0258
+Mauser,Then we should start back.,5,0.0
+Roland,"No. If that ship can still fly, then we need it.",11,-0.296
+Mauser,I was afraid you were gonna say that.,8,0.0
+Roland,"Search every pipe, every hole, every crack we know. Sweep as wide as possible, as fast as possible.",18,0.0
+AK,"Captain, these lines are crawling with calamari.",7,0.0
+Roland,Then the sooner we find them the better.,8,0.4404
+Maggie,Thought you could use something to eat.,7,0.0
+Trinity,Thank you.,2,0.3612
+Maggie,Any change?,2,0.0
+Trinity,No. How’s he?,3,-0.296
+Maggie,"He’s going to be fine, at least until he wakes up.",11,0.2023
+Trinity,What do you mean?,4,0.0
+Maggie,The Captain has some questions for him. He better have some good answers. You see these cuts? I think they’re self-inflicted.,21,0.5574
+Trinity,Why?,1,0.0
+Maggie,"VDTs, maybe. I don’t know. But like I said, the answer had better be good.",15,0.899
+Morpheus,Roland. I’d like to run another search through the Matrix.,10,0.3612
+Roland,For what?,2,0.0
+Morpheus,For Neo.,2,0.0
+AK,"How can he be in the Matrix, sir? He’s not plugged in.",12,0.0
+Morpheus,"Please, for me.",3,0.3182
+Maggie,This is what keeps bothering me.,6,-0.3818
+Trinity,What?,1,0.0
+Maggie,"His neural patterns don’t read like someone who’s in a coma. The strange thing is, I see these patterns all the time.",22,0.1779
+Trinity,Where?,1,0.0
+Maggie,On someone jacked in.,4,0.0
+AK,The big bubkis. Nada. He’s not in there.,8,0.0
+[Colt],"Sir, we’ve got the projections!",5,0.0
+Roland,How long?,2,0.0
+[Colt],Based on the point of entry and the [past] speed it looks like the machines will be inside of Zion in just under 20 hours.,25,0.3612
+AK,Jesus H. Christ.,3,0.0
+Roland,"All right, let’s move with a purpose. AK, get upstairs, I want you on holographics. [Colt,] Mauser, I want forward and aft guns manned at all times. And make sure we are running on as few pads as possible.",39,0.4404
+[Colt],"Yes, sir.",2,0.4019
+Link,Hey. Hey! We got a call. Operator. It’s Seraph.,9,0.0
+Seraph,I bring word from the Oracle. You must come at once.,11,0.0
+Sati,Good morning.,2,0.4404
+Neo,Who are you?,3,0.0
+Sati,"My name is Sati. Your name is Neo. My papa says you’re not supposed to be here. He says you must be lost. Are you lost, Neo?",27,-0.5574
+Neo,Where am I?,3,0.0
+Sati,This is the train station.,5,0.0
+Neo,This isn’t the Matrix?,4,0.0
+Sati,That’s where the Train goes. That’s where we’re going. But you cannot go with us.,15,0.0
+Neo,Why not?,2,0.0
+Sati,He won’t let you.,4,0.0
+Neo,Who won’t let me?,4,0.0
+Sati,"The Trainman. *whispers* I don’t like him, but my Papa says we have to do what the Trainman says or he will leave us here for ever and ever.",29,0.1154
+Oracle,"Morpheus, Trinity. Thank you for coming. One thing I’ve learned in all my years is that nothing ever works out just the way you want it to.",27,0.4215
+Trinity,Who are you?,3,0.0
+Oracle,I’m the Oracle. I wish there was an easier way to get through this but there ain’t. I’m sorry this had to happen. I’m sorry I couldn’t be sitting here like you remember me. But it wasn’t meant to be.,40,0.6249
+Trinity,What happened?,2,0.0
+Oracle,"I made a choice, and that choice cost me more than I wanted it to.",15,0.0
+Morpheus,What choice?,2,0.0
+Oracle,"To help you to guide Neo. Now, since the real test for any choice is having to make the same choice again, knowing full well what it might cost – I guess I feel pretty good about that choice, ’cause here I am, at it again.",46,0.872
+Trinity,Do you know what happened to Neo?,7,0.0
+Oracle,"Yes. He’s trapped in a place between this world and the machine world. The link is controlled by a program called the Trainman. He uses it to smuggle programs in and out of the Matrix. If he finds out where Neo is before you get to him, then I’m afraid our choices are going to become difficult.",57,-0.7003
+Trinity,Why?,1,0.0
+Oracle,Because of who the Trainman works for.,7,0.0
+Morpheus,The Merovingian.,2,0.0
+Oracle,"He has placed a bounty on your lives. You must be careful at all times. Seraph knows how to find the Trainman, he will go with you. For years, he has protected me. I hope he can do the same for you.",42,0.7506
+Seraph,"Please, come.",2,0.3182
+Morpheus,Oracle.,1,0.0
+Oracle,"I know, Morpheus. I can see you’re filled with doubt, clouded by uncertainty.",13,-0.6249
+Morpheus,"After everything that’s happened, how can you expect me to believe you?",12,0.0
+Oracle,I don’t. I expect just what I’ve always expected. For you to make up your own damn mind. Believe me or don’t. All I can really tell you is your friend’s in trouble and he needs your help. He needs all our help.,43,0.0
+Sati,Are you from the Matrix?,5,0.0
+Neo,"Yes. No. I mean, I was.",6,0.128
+Sati,Why did you leave?,4,-0.0516
+Neo,I had to.,3,0.0
+Sati,I had to leave my home too.,7,-0.0516
+Rama-Kandra,"Sati! Come here, darling. Leave the poor man in peace.",10,0.6476
+Sati,"Yes, papa.",2,0.4019
+Rama-Kandra,"I’m sorry, she is still very curious.",7,0.3167
+Neo,I know you.,3,0.0
+Rama-Kandra,"Yes, in the restaurant at the Frenchman’s. I am Rama-Kandra. This is my wife Kamala, my daughter Sati. We are most honoured to meet you.",25,0.7346
+Neo,You’re programs.,2,0.0
+Rama-Kandra,"Oh, yes. I’m the power plant systems manager for recycling operations. My wife is an interactive software programmer, she is highly creative.",22,0.7089
+Kamala,What are you doing here? You do not belong here.,10,0.0
+Rama-Kandra,"Kamala! Goodness, I apologize. My wife can be very direct.",10,0.5707
+Neo,It’s okay. I don’t have an answer. I don’t even know where ‘here’ is.,14,0.2263
+Rama-Kandra,This place is nowhere. It is between your world and our world.,12,0.0
+Neo,Who’s the Trainman?,3,0.0
+Rama-Kandra,He works for the Frenchman.,5,0.0
+Neo,Why’d I know you were going to say that?,9,0.0
+Rama-Kandra,The Frenchman does not forget and he does not forgive.,10,-0.0382
+Neo,You know him?,3,0.0
+Rama-Kandra,"I know only what I need to know. I know that if you want to take something from our world into your world that does not belong there, you must go to the Frenchman.",34,0.0772
+Neo,Is that what you’re doing here?,6,0.0
+Kamala,"Rama, please!",2,0.3802
+Rama-Kandra,"I do not want to be cruel, Kamala. He may never see another face for the rest of his life.",20,-0.6152
+Neo,I’m sorry. You don’t have to answer that question.,9,-0.0772
+Rama-Kandra,"No. I don’t mind. The answer is simple. I love my daughter very much. I find her to be the most beautiful thing I’ve ever seen. But where we are from, that is not enough. Every program that is created must have a purpose; if it does not, it is deleted. I went to the Frenchman to save my daughter. You do not understand.",64,0.8859
+Neo,I just have never…,4,0.0
+Rama-Kandra,…heard a program speak of love?,6,0.6369
+Neo,It’s a… human emotion.,4,0.0
+Rama-Kandra,"No, it is a word. What matters is the connection the word implies. I see that you are in love. Can you tell me what you would give to hold on to that connection?",34,0.4767
+Neo,Anything.,1,0.0
+Rama-Kandra,Then perhaps the reason you’re here is not so different from the reason I’m here.,15,0.0
+Seraph,That’s him.,2,0.0
+Trainman,Get away! Get away from me!,6,0.0
+Seraph,We don’t want trouble.,4,-0.34
+Trainman,Get away from me!,4,0.0
+Seraph,We need your help.,4,0.4019
+Trainman,I can’t help you. No one can help you!,9,0.5411
+Seraph,"Oh, no.",2,-0.296
+Seraph,Damn it.,2,-0.4019
+Neo,When is the train due?,5,0.0
+Rama-Kandra,It’s already late. It’s not like the Trainman to be late.,11,-0.2755
+Neo,You think it has something to do with me?,9,0.0
+Rama-Kandra,I cannot say. Who knows such things? Only the Oracle.,10,0.0
+Neo,You know the Oracle?,4,0.0
+Rama-Kandra,Everyone knows the Oracle. I consulted with her before I met with the Frenchman. She promised she would look after Sati after we said goodbye.,25,0.3612
+Neo,Goodbye? You’re not staying with her?,6,0.0
+Rama-Kandra,It is not possible. Our arrangement with the Frenchman was for our daughter only. My wife and I must return to our world.,23,0.0
+Neo,Why?,1,0.0
+Rama-Kandra,That is our karma.,4,0.0
+Neo,You believe in karma?,4,0.0
+Rama-Kandra,"Karma’s a word. Like ‘love.’ A way of saying ‘what I am here to do.’ I do not resent my karma – I’m grateful for it. Grateful for my wonderful wife, for my beautiful daughter. They are gifts. And so I do what I must do to honour them.",49,0.9653
+Sati,"Papa, the train!",3,0.0
+Rama-Kandra,"Yes! Get your bags, quickly!",5,0.508
+Neo,Can I carry that for you?,6,0.0
+Rama-Kandra,All right.,2,0.0
+Trainman,"Hurry it up, I’m late!",5,0.0
+Trainman,Who are you?,3,0.0
+Rama-Kandra,He’s a friend.,3,0.4939
+Kamala,Rama!,1,0.0
+Trainman,I know you. So that’s what they wanted.,8,0.0
+Neo,I need to get back. I’ll pay you anything you want.,11,-0.0258
+Trainman,Oh?,1,0.0
+Neo,One way or another I’m getting on this train,9,0.0
+Trainman,"Oh, no, no, no. You’re gonna stay right here until the Merovingian says different. If I know him, you’re gonna be here for a long, long time.",27,-0.6808
+Neo,I don’t want to hurt you.,6,-0.4767
+Trainman,"You don’t get it. I built this place. Down here I make the rules. Down here I make the threats. Down here, I’m God. *to Rama-Kandra* Get on the train, or you’ll stay here with him.",36,-0.1779
+Seraph,We should return to the Oracle. She’ll know what to do.,11,0.0
+Trinity,No. We know what has to be done.,8,-0.296
+Neo,Shit.,1,-0.5574
+Q-Ball Gang Member #1,You’ve got to be kidding…,5,0.0
+Q-Ball Gang Member #2,"Holy shit, it’s Wingless.",4,-0.5574
+Q-Ball Gang Member #1,I get it. You must be ready to die.,9,-0.34
+Seraph,I need to speak with him.,6,0.0
+Q-Ball Gang Member #1,The only way you’re getting through this door is over my big dead ass.,14,-0.8316
+Seraph,So be it.,3,0.0
+Seraph,"There are no weapons allowed in the club. At the bottom of this elevator, there is a coat check girl. And if we’re lucky, one man for checking guns.",29,-0.3182
+Trinity,And if we’re unlucky?,4,0.0
+Seraph,There will be many men.,5,0.0
+Coat Check Girl,Can I take your… oh my God.,7,0.2732
+Merovingian,What in the hell? *laughs* I don’t believe this.,9,-0.6808
+Merovingian,"*to the DJ* Hey. Hey! *to Seraph* The prodigal child returns. L’ange sans ailes (Trans: The angel without wings). Are you here for the bounty, Seraph? *laughs heartily* Tell me, how many bullets are there in those guns? I don’t know, but I don’t think you have enough.",48,0.0
+Seraph,We only want to talk.,5,0.0772
+Merovingian,"Oh yes, I’m sure you do, you have fought through hell to do so, yes? I’ll tell you what I’ll do. Put down the guns and I will promise you safe passage out of here.",35,0.6124
+Seraph,All three of us.,4,0.0
+Merovingian,"Oh yes, yes. Of course.",5,0.6597
+Merovingian,"*laughs* Quelle bonne surprise, n’est pas? (Trans: What a fine surprise, isn’t it?) Who could’ve guessed we’d all be seeing each other so soon after our last meeting? A fate too kind. And since you, my little Judas, have […] here, I can only surmise that the fortune teller has found herself another shell? Disappointing, but not unexpected. I do hope, however, she has the good manners to learn her lesson, and to remember that there is no action without consequence. And if you take something from me you will pay the price.",93,-0.2544
+Seraph,You know why we are here.,6,0.0
+Merovingian,"*laughs* Come, now. What kind of question is this? Of course I know. It’s my business to know. Some might think this a strange coincidence, but I do not. I am curious, though, as to how it actually happened. Do you know?",42,-0.5111
+Trinity,No.,1,-0.296
+Merovingian,No? I didn’t think so. But it is always best to ask.,12,0.7351
+Morpheus,We want to make a deal.,6,0.0772
+Merovingian,"*laughs* Always straight to business, huh, Morpheus? Okay. I have something you want. To make a deal, you must have something I want, yes? And it so happens there is something I want. Something I’ve wanted ever since I first came here. It is said they cannot be taken, they can only be given.",54,0.7757
+Morpheus,What?,1,0.0
+Merovingian,The eyes of the Oracle. *laughs*,6,0.0
+Merovingian,"I have told you before, there’s no escaping the nature of the universe. It is that nature that has again brought you to me. Where some see coincidence, I see consequence. Where others see chance, I see cost. Bring me the eyes of the Oracle, and I will give you back your saviour. That seems a particularly fair and reasonable deal to me. Yes, no?",65,0.4754
+Trinity,I don’t have time for this shit.,7,-0.6428
+Trinity,"You want to make a deal, how about this? You give me Neo, or we all die right here, right now.",21,-0.5574
+Merovingian,Interesting deal. You are really ready to die for this man?,11,0.0847
+Trinity,*cocks gun* Believe it.,4,0.0
+Perseph,"She’ll do it. If she has to, she’ll kill every one of us. She’s in love.",16,-0.128
+Merovingian,It is remarkable how similar the pattern of love is to the pattern of insanity.,15,0.6249
+Trinity,"Time’s up. What’s it gonna be, Merv?",7,0.0
+Neo,Ok. You got yourself into this. You can get yourself out.,11,0.296
+Morpheus,Are you ready for us?,5,0.3612
+Link,"Almost, sir. They got some pretty ancient hacks here, we’re working on it. Did you find Neo?",17,0.4939
+Morpheus,Can’t you see him?,4,0.0
+Link,"No, sir. We were reading something but I couldn’t tell what it was.",13,-0.1531
+Neo,I can’t leave yet.,4,-0.0516
+Neo,I have to see her.,5,0.0
+Trinity,Now?,1,0.0
+Neo,This is my last chance.,5,0.25
+Oracle,That’s it. That’s the secret. You’ve got to use your hands.,11,0.0
+Sati,Why?,1,0.0
+Oracle,Cookies need love like everything does.,6,0.7717
+Sati,Neo!,1,0.0
+Oracle,"I was hoping to have these done before you got here. Oh well. Sati, honey, I think it’s time for a tasting. Take the bowl to Seraph and find out if they’re ready.",33,0.7506
+Sati,Okay. *to Neo* I’m glad you got out.,8,0.5994
+Neo,Me too.,2,0.0
+Oracle,"So, do you recognize me?",5,0.0
+Neo,A part of you.,4,0.0
+Oracle,"Yeah, that’s how it works. Some bits you lose, some bits you keep. I don’t yet recognize my face in the mirror, but… I still love candy. *offers Neo a piece of red candy*",34,0.5719
+Neo,"No, thank you.",3,0.0772
+Oracle,"Remember what you were like when you first walked through my door, jittery as a junebug? And now just look at you. You sure did surprise me, Neo, and you still do.",32,0.7096
+Neo,"You gave me a few surprises, too.",7,0.2263
+Oracle,I hope I helped.,4,0.4404
+Neo,"You helped me to get here, but my question is why? Where does this go? Where does it end?",19,0.0
+Oracle,I don’t know.,3,0.0
+Neo,You don’t know or you won’t tell me?,8,0.0
+Oracle,"I told you before. No one can see beyond a choice they don’t understand, and I mean no one.",19,-0.5267
+Neo,What choice?,2,0.0
+Oracle,"It doesn’t matter. It’s my choice. I have mine to make, same as you have yours.",16,0.0258
+Neo,Does that include what things to tell me and what not to tell me?,14,0.0
+Oracle,Of course not.,3,0.0
+Neo,"Then why didn’t you tell me about the Architect? Why didn’t you tell me about Zion, the Ones before me – why didn’t you tell me the truth?",28,0.3939
+Oracle,Because it wasn’t time for you to know.,8,0.0
+Neo,Who decided it wasn’t time?,5,0.0
+Oracle,You know who. *She points at the Temet Nosce sign above the door*,13,0.0
+Neo,I did. *Oracle nods* Then I think it’s time for me to know a few more things.,17,0.0
+Oracle,So do I.,3,0.0
+Neo,Tell me how I separated my mind from my body without jacking in. Tell me how I stopped four sentinels by thinking it. Tell me just what the hell is happening to me.,33,-0.7579
+Oracle,The power of the One extends beyond this world. It reaches from here all the way back to where it came from.,22,0.1779
+Neo,Where?,1,0.0
+Oracle,"The Source. That’s what you felt when you touched those Sentinels. But you weren’t ready for it. You should be dead, but apparently you weren’t ready for that, either.",29,-0.1154
+Neo,"The Architect told me that if I didn’t return to the Source, Zion would be destroyed by midnight tonight.",19,-0.4939
+Oracle,"*rolls eyes* Please… You and I may not be able to see beyond our own choices, but that man can’t see past any choices.",24,0.0
+Neo,Why not?,2,0.0
+Oracle,He doesn’t understand them – he can’t. To him they are variables in an equation. One at a time each variable must be solved and countered. That’s his purpose: to balance an equation.,33,0.2732
+Neo,What’s your purpose?,3,0.0
+Oracle,To unbalance it.,3,0.0
+Neo,Why? What do you want?,5,0.168
+Oracle,"I want the same thing you want, Neo. And I am willing to go as far as you are to get it.",22,0.1531
+Neo,The end of the war. *Oracle nods* Is it going to end?,12,-0.5994
+Oracle,"One way, or another.",4,0.0
+Neo,Can Zion be saved?,4,0.4215
+Oracle,"I’m sorry, I don’t have the answer to that question, but if there’s an answer, there’s only one place you’re going to find it.",24,-0.0387
+Neo,Where?,1,0.0
+Oracle,"You know where. And if you can’t find the answer, then I’m afraid there may be no tomorow for any of us.",22,-0.296
+Neo,What does that mean?,4,0.0
+Oracle,Everything that has a beginning has an end. I see the end coming. I see the darkness spreading. I see death. And you are all that stands in his way.,30,-0.7096
+Neo,Smith.,1,0.0
+Oracle,"*nods* Very soon he’s going to have the power to destroy this world, but I believe he won’t stop there; he can’t. He won’t stop until there’s nothing left at all.",31,-0.7814
+Neo,What is he?,3,0.0
+Oracle,"He is you. Your opposite, your negative, the result of the equation trying to balance itself out.",17,-0.5719
+Neo,What if I can’t stop him?,6,-0.296
+Oracle,"One way or another, Neo, this war is going to end. Tonight, the future of both worlds will be in your hands… or in his.",25,-0.6833
+Trinity,How are you feeling? Are you all right?,8,0.2168
+Neo,I need time.,3,0.0
+Roland,That figures.,2,0.0
+Maggie,Captain Roland!,2,0.0
+Roland,"What’s up, Maggie?",3,0.0
+Maggie,It’s Bane. he’s conscious.,4,0.0
+Roland,Good. Maybe he’s got some answers.,6,0.4404
+Oracle,"Mmm, I love that smell. I sure am gonna miss it.",11,0.7096
+Seraph,Oracle.,1,0.0
+Oracle,"I know, I know. Sati, honey! Take a few cookies and go with Seraph.",14,0.0
+Sati,Can I come back? I would like to come back!,10,0.4199
+Oracle,I would like that too.,5,0.3612
+Sati,So I’ll see you tomorrow.,5,0.0
+Oracle,"I hope so, honey, I hope so.",7,0.7003
+Sati,"I’m scared, Seraph.",3,-0.4404
+Seraph,Come.,1,0.0
+Sati,He’s following us.,3,0.0
+Smith,"Well, well, it’s been a long time. I remember chasing you was like chasing a ghost.",16,0.5267
+Seraph,I have beaten you before.,5,-0.4215
+Smith,"That’s true, but as you can see, things are a little different now. *to Sati* And you must be the last exile.",22,0.2263
+Sati,The Oracle told me about you.,6,0.0
+Smith,Really? And what did she say about me?,8,0.0
+Sati,That you’re a bad man.,5,-0.5423
+Smith,"Oh, I’m not so bad once you get to know me.",11,0.5549
+Smith,"The great and powerful Oracle. We meet at last. I suppose you’ve been expecting me, right? The all-knowing Oracle is never surprised. How can she be, she knows everything. But If that’s true, then why is she here? If she knew I was coming, why didn’t she leave? *sweeps plate of cookies off table* Maybe you knew I was going to do that, maybe you didn’t. If you did, that means you baked those cookies and set that plate right there deliberately, purposefully. Which means you’re sitting there also deliberately, purposefully.",91,0.7939
+Oracle,What did you do with Sati?,6,0.0
+Smith/Sati,Cookies need love like everything does.,6,0.7717
+Smiths,*laugh*,1,0.0
+Oracle,You are a bastard.,4,-0.5423
+Smith,"You would know, Mom.",4,0.0
+Oracle,Do what you’re here to do.,6,0.0
+Smith,"Yes, ma’am.",2,0.4019
+Smith/Oracle,*laughs maniacally*,2,0.0
+Bane,"I really wish I could help, but I just… I don’t remember any of it.",15,0.4549
+Roland,What about the cuts on your arms? Those cuts are more than one day old.,15,-0.5267
+Bane,"Yeah, definitely. You’re right about that, sir. They look like they might be self-inflicted. Why would I do something like that to myself? Unless, of course, I wasn’t myself… but… if I’m not me, then who am I?",38,0.8504
+Roland,Has this man been tested for VDTs?,7,0.0
+Maggie,"Yes, sir, it was negative. But he is showing a lot of unusual neural activity. Some cross-synaptic firing as well as signs of recent trauma, with fresh fibrotic scarring throughout the cortex.",32,-0.4019
+Roland,"I want the truth, I don’t care what it takes. Make him remember.",13,0.7003
+[man],Sir? We found her!,4,0.0
+Roland,The Logos?,2,0.0
+[man],"Yes, sir.",2,0.4019
+Roland,‘Bout time we had some goddamn good news.,8,-0.0516
+Morpheus,Are the thermals picking up any signs of life?,9,0.0
+AK,"No, sir. Nothing yet.",4,-0.296
+Roland,What about the ship?,4,0.0
+AK,"Well, [holo]graphic says the hull is still intact.",8,0.4404
+Roland,Drop her down […],4,-0.2732
+[Pilot],"Yes, sir.",2,0.4019
+Roland,Get a full diagnostic on that ship as fast as humanly possible.,12,0.0
+[man],"Careful, sir! The squids are sneaky bastards. Could be a trap.",11,-0.784
+[man],What was that?,3,0.0
+Niobe,"You can put that shit away, boys. All she needs is a jump.",13,-0.5574
+Morpheus,Niobe.,1,0.0
+Niobe,Morpheus. Are you all right?,5,0.0
+Morpheus,"Yes, I’m fine. We didn’t know what happened out here. I’m sorry.",12,0.4939
+Niobe,It’s okay. I’m happy to see you too. Did you get Neo out?,13,0.6808
+Morpheus,Yes. How did you know about that?,7,0.4019
+Niobe,The Oracle.,2,0.0
+Morpheus,You saw her?,3,0.0
+Niobe,Just before the sentinels found us.,6,0.0
+Morpheus,What did she tell you?,5,0.0
+Niobe,The same thing she always does. Exactly what I needed to hear.,12,0.0
+Lock,"In less than 12 hours, the machines will breach the dock walls. Every simulation we’ve run, we’ve seen that once the machines are inside the city the odds of our survival decrease dramatically. Thus our primary objective must be to destroy or disable the diggers inside the dock. If we can do that, perhaps we can prevent them from ever reaching the city. If not, the only place we’ll be able to mount an effective defense will be at the entrance of the Temple. It is small enough that it will force them into a bottleneck, allowing us to concentrate the remainder of our defense.",105,0.3612
+Councillor Dillard,We understand that you’ve requested additional volunteers.,7,0.0
+Lock,That is correct.,3,0.0
+Councillor West,Precisely what size of force are you planning to commit to the primary dock objective?,15,0.296
+Lock,"Right now, the entire APU core and half the infantry.",10,0.0
+Councillor West,Half the infantry?,3,0.0
+Lock,"If it were up to me, Councillor, I’d take every man, woman, and child, put a gun in their hands and march them straight into that dock.",27,-0.128
+Councillor Dillard,Perhaps it is best that it is not up to you.,11,0.6369
+Lock,"Time will tell, Councillor.",4,0.0
+Councillor Hamann,"Commander, just one more question. Has there been word from the Nebuchadnezzar?",12,0.0
+Lock,"None, and at this point there’s no reason to expect that there ever will be.",15,-0.296
+Councillor Hamann,Perhaps. But we can hope.,5,0.5927
+Lock,I’m afraid hope is an indulgence I don’t have time for.,11,0.4404
+Cas,"Zee, what are you doing?",5,0.0
+Zee,Making shells.,2,0.0
+Cas,They’re evacuating our level. We have to go.,8,0.0
+Zee,I’m not going with you.,5,0.0
+Cas,What?,1,0.0
+Zee,They’ve called for volunteers to hold the dock.,8,0.0
+Cas,"*to the kids* Kids, you stay here. *to Zee* I know how you feel, Zee, but you can’t do that.",20,0.0
+Zee,I have to.,3,0.0
+Cas,Why?,1,0.0
+Zee,"Because I love him. [I love him the same as] he loves me. And if I were out there and he were here, I know he would be doing the same thing.",32,0.9201
+Cas,"But you’re gonna get yourself killed. It’s crazy, Zee.",9,-0.8847
+Zee,"Maybe it is. But ask yourself, if it were Dozer, and you knew the only chance you had to see him again was to hold the dock, what would you do?",31,0.3612
+Cas,Make shells.,2,0.0
+Mifune,What the shit is going on over here?,8,-0.5574
+Kid,"An accident, sir! I didn’t see… I’m sorry!",8,-0.6103
+Mifune,Who the hell are you?,5,-0.6808
+Kid,"I’m here to volunteer, sir.",5,0.0
+Mifune,What’s a pod-born pencil-neck like you doin’ volunteering for my corps?,11,0.3612
+Kid,"I want to do my part, sir! We gotta hold the dock.",12,0.1511
+Mifune,"How old are you, kid?",5,0.0
+Kid,Eighteen.,1,0.0
+Mifune,"Shoulda said sixteen, I mighta believed that!",7,0.0
+Kid,[OK] I’m sixteen.,3,0.0
+Mifune,"Minimal age for the corps is eighteen, sixteen’s too young!",10,0.0
+Kid,The machines won’t care how old I am. They’ll kill me just the same.,14,-0.3612
+Mifune,Ain’t that the goddamned truth.,5,-0.128
+Kid,"Give me a chance, sir. I won’t let you down.",10,0.25
+Mifune,You do… you’ll find me and the machines have something in common.,12,0.0
+Ghost (v.o.),Okay. Charge the igniter.,4,0.2263
+Sparks,She lives again.,3,0.0
+AK,"You want us to patch an uplink to reload the operations software, Sparky?",13,0.0772
+Sparks,"Yeah, that’d be swell. You can clean the windshield while you’re at it. Uplinks are in place, I’m bringing her back online. Looking good, except, uh… something wrong with the Matrix feed.",32,0.5719
+AK,"No, there’s not. You’re looking at what we’re looking at.",10,-0.296
+Sparks (v.o.),What the hell’s going on in there?,7,0.0
+Link,"Whatever it is, it can’t be good.",7,0.4404
+Roland,"The machines have taken Junction 21. They way I see it, if we drop down from broadcast here, [at RC153], we might surprise them. We go first, hammer as deep as we can, them blow our EMP. Hopefully, we can punch a hole big enough for you to get through.",50,0.4019
+Niobe,*sighs*,1,0.0
+Roland,"It ain’t pretty, but the way I see it, it’s the only way back.",14,0.2732
+Niobe,"No it’s not. There’s another way. A support line. It drops down right here. A thousand meters short of 21. If we’re lucky, we may be able to slip down without them ever knowing.",34,0.5106
+Roland,"That’s a mechanical line. It’s impossible, no one can pilot mechanical.",11,-0.296
+Niobe,I can.,2,0.0
+Roland,Bullshit.,1,-0.5859
+Niobe,I’ve done it.,3,0.0
+Morpheus,"That was a long time ago, Niobe.",7,0.0
+Niobe,I said I can do it.,6,0.0
+Roland,"So what? If you can, you’ll be the only one that can. There’s no way we can follow you.",19,-0.296
+Neo,"Hi. I know time is always against us, and I’m sorry I took so long. But I wanted to be sure.",21,0.4215
+Trinity,Sure of what?,3,0.3182
+Neo,I know what I have to do.,7,0.0
+Morpheus,What?,1,0.0
+Neo,"There’s no easy way to say this, so I’ll just say it. I have to take one of the ships.",20,0.1779
+Roland,What?,1,0.0
+Morpheus,To go where?,3,0.0
+Neo,To the machine city.,4,0.0
+Roland,*laughs*,1,0.0
+Neo,I know it’s difficult to understand…,6,-0.3612
+Roland,"No, it’s not – you’re out of your goddamn mind.",10,-0.6486
+Neo,I still have to go.,5,0.0
+Roland,"You’ll never make it. hundred years no ship has gone within a hundred kilometers of it, you’ll never make it.",20,-0.296
+Neo,I have to try.,4,0.0
+Morpheus,Is this what the Oracle told you?,7,0.0
+Neo,No.,1,-0.296
+Roland,"This is asinine! If you want to kill yourself, go do it, but do it without wasting one of our ships.",21,0.1227
+Neo,"You have to believe me, I have to go.",9,0.0
+Roland,"Bullshit! While I’m captain of this ship, I say where it has to go. Believe me, this ship will go to hell long before I let you take it anywhere.",30,-0.8655
+Niobe,He can take mine.,4,0.0
+Roland,You can’t do that.,4,0.0
+Niobe,Don’t even think of trying to tell me what I can or cannot do with my ship after that little speech.,21,0.0
+Roland,"But for Christ’s sake, Niobe…",5,0.0
+Niobe,"I’ll pilot this ship. He can take mine. If we leave inside an hour, we should reach Zion as the machines do. That’s as good a plan as any.",29,0.4215
+Roland,It’s a waste. A goddamn waste.,6,-0.8271
+Niobe,"Two ships, two directions. Sounds like providence, doesn’t it, Morpheus?",10,0.3612
+Morpheus,You’ve never believed in The One.,6,0.0
+Niobe,I still don’t.,3,0.0
+Morpheus,Then why are you doing this?,6,0.0
+Niobe,I believe in him.,4,0.0
+Neo,Thank you.,2,0.3612
+Bane,What’s that for?,3,0.0
+Maggie,To help you relax. To make it easier for you to remember.,12,0.8126
+Bane,What if I don’t want to remember?,7,0.0772
+Maggie,Why would you want that?,5,0.0772
+Bane,"What if I blew that EMP? What if I did destroy those ships and I am responsible for the deaths of all those men? If I did that, it wouldn’t be very safe for me here, would it?",38,0.368
+Bane,"Of course, it might not be very safe for you, either.",11,-0.3865
+Trinity,I’m ready.,2,0.3612
+Neo,Trinity… There’s something I have to say. Something you need to understand. I know I’m supposed to go. But beyond that – I don’t know…,25,0.0
+Trinity,I know. You don’t think you’re coming back. I knew it the moment you said you had to leave. I could see it in your face. Just like you knew the moment you looked at me that I was coming with you.,42,0.3182
+Neo,"I’m scared, Trin.",3,-0.4404
+Trinity,So am I. Took me ten minutes to buckle up one boot. But I’ll tell you something. Six hours ago I told the Merovingian that I was ready to give anything and everything for you. Do you know what’s changed in the past 6 hours?,45,0.5023
+Neo,No.,1,-0.296
+Trinity,Nothing.,1,0.0
+Roland (v.o.),Are you finished loading that amunition?,6,0.0
+Mauser,"Just about, sir!",3,0.0
+Roland,"Let’s move it, we are out of time.",8,0.0
+Niobe,You’re not leaving them anything?,5,0.0
+Roland,Said he didn’t need it.,5,0.0
+Link,*hugs Trinity* I ain’t saying goodbye. I’m saying good luck.,10,0.7096
+Trinity,Thank you.,2,0.3612
+Morpheus,I can only hope you know what you’re doing.,9,0.4404
+Neo,"Me, too. It was an honour, sir.",7,0.5719
+Morpheus,"No, the honour’s still mine.",5,-0.296
+Mauser (v.o.),"We’re ready, sir.",3,0.3612
+Roland,"‘Bout damn time. *to Niobe* We’re already late, Captain, so let’s hit it and hit it hard.",17,-0.4767
+Niobe,"Bye, baby. Take good care of them.",7,0.7269
+Trinity,Ready?,1,0.3612
+Trinity,Engine’s still firing. Must be a fuse. I’ll check it out.,11,-0.34
+Bane,I should’ve known he’d sent his bitch first.,8,-0.5859
+Trinity,Bane?!,1,0.0
+Bane,"No one ever got away from me as many times as you did. Every single time I thought it was the last. Every time I was sure we had you, but somehow you’d slip through our fingers. I really can’t express just how aggravating that can be.",47,-0.4118
+Trinity,What are you talking about?,5,0.0
+Bane,I think I might enjoy killing you as much as killing him.,12,-0.765
+Trinity,"Neo! It’s Bane, he’s psychotic!",5,0.0
+Bane,You’re gonna pay for that.,5,-0.1027
+Ghost,Twenty-seven kilometers to go.,4,0.0
+AK (v.o.),"Captain, we’ve got an emergency down here.",7,-0.3818
+Roland,"What is it, AK?",4,0.0
+AK,"It’s Maggie, sir. She’s dead. Murdered. I think it was Bane.",11,-0.8658
+Roland,Goddamn it.,2,-0.4767
+Roland,"I knew it. I knew he was out of his goddamn mind. He fired that EMP. Goddamn it, I should have beaten it out of him.",26,-0.9118
+[Colt],"We’ve searched the whole ship, captain. He ain’t here.",9,0.0
+Roland,I know where he is.,5,0.0
+Morpheus,The Logos.,2,0.0
+Link,We gotta go back!,4,0.0
+Roland,Too late.,2,0.0
+Link,"You don’t know that, what if they need our help!",10,0.4574
+Roland,It’s too late.,3,0.0
+Link,Why?,1,0.0
+Morpheus,"Because if he’s killed them, he’ll control another EMP.",9,-0.6705
+Roland,"At this point, they’re on their own… just like us.",10,0.3612
+Bane,Mr. Anderson. I see you’re as predictable in this world as you are in the other.,16,0.0
+Neo,What?,1,0.0
+Trinity,He’s out of his mind.,5,0.0
+Bane,"It might appear that way to you, but Mr. Anderson and I know that appearances can be deceiving. Confused, Mr. Anderson? It’ll all become clear in a moment. Now, thank you for bringing me the gun. You can set it down right there.",43,-0.3612
+Trinity,Don’t do it. Shoot. Shoot now.,6,-0.5859
+Bane,"Yes, shoot, fry us, burn us alive!",7,0.4926
+Trinity,"Shoot, Neo. If you don’t, he’ll kill us both.",9,-0.7964
+Bane,Look at him. He knows he should do it but he won’t. He can’t.,14,0.0
+Trinity,Do it.,2,0.0
+Bane,Back away from the gun and turn around.,8,-0.34
+Neo,Let her go.,3,0.0
+Bane,"[Somehow familiar, isn’t it?]. We’ve been here before, you and I. Remember? I do. I think of nothing else.",19,0.0
+Neo,Who are you?,3,0.0
+Bane,"Still don’t recognize me? I admit, it is difficult to think, encased in this rotting piece of meat. The stink of it filling every breath, a suffocating cloud you can’t escape. *spits blood* Disgusting! Look at how pathetically fragile it is. Nothing this weak is meant to survive.",48,-0.7532
+Neo,What do you want?,4,0.0772
+Bane,I want what you want.,5,0.1531
+Bane,"Yes.. That’s it, Mr. Anderson. Look past the flesh, look through the soft gelatin of these dull cow eyes and see your enemy.",23,-0.7351
+Neo,No.,1,-0.296
+Bane,"Oh yes, Mr. Anderson.",4,0.4019
+Neo,It can’t be.,3,0.0
+Bane,"There’s nowhere I can’t go, there’s nowhere I won’t find you.",11,0.0
+Neo,It’s impossible.,2,0.0
+Bane,"Not impossible. Inevitable. Goodbye, Mr. Anderson.",6,0.0
+Trinity,"This is it, it’s gotta’ be. {She pushes a circuit breaker, the lights go out}",15,0.0
+Neo,*screams*,1,0.0
+Trinity,Neo.,1,0.0
+Bane,"I wish you could see yourself, Mr. Anderson. The blind messiah. You’re a symbol for all of your kind, Mr. Anderson. Helpless, pathetic. Just waiting to be put out of your misery.",32,-0.7906
+Neo,I can see you.,4,0.0
+Bane,"It’s not over, Mr. Anderson. It’s not over.",8,0.0
+Neo,Trinity!,1,0.0
+Trinity,Neo. Oh no. Your eyes.,5,-0.296
+Neo,"I’ll be okay. It’s all right, Trin. But I think you’re gonna have to drive.",15,0.1154
+[man],Seismic’s projecting twenty-two minutes to breach.,6,0.0
+Lock,"They can’t know we don’t have any EMP, they’ll have to attack in waves. Concentrate our offense on the diggers. Order the APUs into position.",25,-0.6249
+[man],"Yes, sir.",2,0.4019
+Mifune,"All right, this is it. Now, you all know me, so I’ll just say this as simple as I can. If it’s our time to die, it’s our time. All I ask is: if we have to give these bastards our lives, we give ’em hell before we do!",49,-0.9299
+APU fighters,*cheer*,1,0.0
+Zee,"You scared, Charra?",3,-0.4404
+Charra,"Shit, yeah. I’ll make you a deal, though. You keep loadin’, I keep shootin’.",14,-0.34
+Zee,Deal.,1,0.0
+[?],[Holy Christ would you look at that?],7,0.0
+[?],[…],1,0.0
+[Morpheus],1.4 kilometers.,2,0.0
+[?],[…],1,0.0
+[?],[…] still generating […] field.,5,0.0
+Niobe,"Ghost, cut the auxilliary systems […] Switch to full manual, drop down to four pads.",15,-0.6705
+Ghost,[…],1,0.0
+Niobe,"Easy, baby.",2,0.4404
+[Morpheus],700 meters.,2,0.0
+Niobe,If I can just get close enough.,7,0.0
+[Morpheus],600 meters.,2,0.0
+[Link],There.,1,0.0
+Niobe,Shit!,1,-0.5983
+Ghost,"Jig’s up, here they come.",5,0.0
+Niobe,"Give me full power, full systems!",6,0.0
+Roland,[…] turrets […],3,0.0
+Niobe,"Ghost, you’re the best gunner we have, go with them. Morpheus, take his place!",14,0.4926
+[?],"Come on, baby.",3,0.0
+Morpheus,Here they come.,3,0.0
+[?],[…],1,0.0
+Niobe,"Hold on to your lunch, [Roland,] here we go.",9,0.0
+[?],Holy Christ!,2,0.0
+Roland,Damn. Didn’t know this ship could do that.,8,-0.4019
+Operations Officer Mattis,Breached! The dock is breached!,5,0.0
+Mifune,[Buckle] up!,2,0.0
+Mifune,For Zion!,2,0.0
+Mifune,[Buckle] up!,2,0.0
+[Man in APU],Load!,1,0.0
+[Man],Reload [Nine]!,2,0.0
+[Man],"Go, go, move, move!",4,0.0
+Mifune,[…],1,0.0
+[Zee/Charra],Oh my God.,3,0.2732
+Lock,Where the hell’s my infantry? I want that goddamn machine taken down!,12,-0.4753
+Charra,Take this!,2,0.0
+Zee,Oh shit!,2,-0.5983
+Roland,"[…] it’s not the Logos, goddamn it.",7,0.3724
+Niobe,"Shit, she’s got a fat ass.",6,-0.7964
+Niobe,Keep ’em off me!,4,0.0
+Roland,[…] shitload of ’em.,4,0.0
+[?],Captain! Do you see that?,5,0.0
+Roland,"They’re going for the radio, stop ’em! {Sentinels take out radio} Shit.",12,-0.7263
+[man],Goddamnit.,1,0.0
+Charra,Grab my belt.,3,0.0
+Charra,Just give me one clean shot.,6,0.4019
+Charra,Shit.,1,-0.5574
+Zee,Charra!,1,0.0
+[man],"Commander Lock, I’ve got incoming!",5,0.0
+Lock,I got a dock load of incoming!,7,0.0
+[man],"Sorry sir, but this is different, sir.",7,-0.0387
+Lock,What?,1,0.0
+[man],I think it’s one of ours.,6,0.0
+Lock,"That’s impossible […] Contact them, I want access codes.",9,0.0772
+[?],"[…] trying, but there’s no response.",6,-0.4215
+Lock,"It’s a trick. [It can’t be, it’s] a mechanical line. No one can pilot mechanical.",15,-0.34
+Niobe,[…],1,0.0
+Morpheus,"30 degrees, […]",3,0.0
+Niobe,"Full starboard, 60 degrees.",4,0.0
+Morpheus,60 degrees.,2,0.0
+Niobe,"Come on, keep up!",4,0.0
+Morpheus,I’m trying!,2,0.0
+[man],"Holographs are confirmed. It’s the Hammer, sir.",7,0.0
+Lock,How can that be?,4,0.0
+[man],"The ship is under attack, sustaining heavy damage. But at its present velocity, it’ll reach Gate 3 in twelve minutes.",20,-0.4588
+[man 2],[…] EMP could take out [every sentinel] […],8,0.0
+Lock,"It’d take out more than that. It’d wipe out our entire defense system. […] EMP in there, we will lose the dock!",22,-0.3595
+[man??],"But sir, we’ve already lost the dock.",7,-0.4497
+Lock,Open the gate.,3,0.0
+Zion Gate Operator,"[…] critical damage, sir! [We’ve lost control! We] can’t open it!",11,-0.826
+Morpheus,There’s the exit.,3,0.0
+Niobe,"On my mark, give me full power, 90 degrees, lower right starboard.",12,-0.296
+Morpheus,"Full power, 90 degreees.",4,0.0
+Niobe,Now!,1,0.0
+Roland,"Damn, woman, you can drive.",5,-0.4019
+Niobe,We ain’t home yet. What about the gate?,8,0.0
+Morpheus,The sentinels are inside the dock.,6,0.0
+Niobe,Are we too late?,4,0.0
+Lock,How many APUs are operational?,5,0.0
+[man],"[Thir]teen, sir.",2,0.0
+Lock,Get me the one closest to Gate 3.,8,0.0
+Mifune,*screams* Reload!,2,0.0
+[man],[…],1,0.0
+[man],Go!,1,0.0
+Mifune,"[…] look out, [they’re comin’ down]!",6,0.0
+Mifune,Behind you!,2,0.0
+Kid,It’s jammed!,2,0.0
+Mifune,"[It’s OK, kid!] Get outta here!",6,0.5449
+Kid,Got it!,2,0.0
+Kid,"Captain Mifune! Oh, no.",4,-0.3595
+Mifune,..coming. They’re coming. The Hammer.,5,0.0
+Kid,What?,1,0.0
+Mifune,You have to open that gate. Cut the counterweights. […] You can do it. Hurry. There’s no time.,18,-0.5106
+Kid,[…] I didn’t finish the training program.,7,0.0
+Mifune,Neither did I.,3,0.0
+[?],[…] that down!,3,0.0
+[?],[…] feeder!,2,0.0
+Roland,[…] We gotta blow the EMP now!,7,0.0
+Niobe,[…],1,0.0
+Kid,[Light as a feather. Light as a feather.],8,0.0
+[man],"Commander, […] Captain Mifune’s APU is up and moving to Gate 3!",12,0.0
+Kid,Don’t oversqueeze the trigger…,4,0.0
+[man],Captain Mifune’s APU’s just reached Gate 3!,7,0.1759
+Lock,How much time?,3,0.0
+[man 2],Two minutes to impact!,4,0.0
+Lock,"Captain Mifune, do you copy?",5,0.0
+[?],"His radio is down, sir.",5,0.0
+Lock,"Mifune, this is Lock. I don’t know if you can hear me but if you can…",16,0.0
+Lock (v.o.),"…the Hammer is two minutes away […] you’ve got two minutes, Captain, to get that gate open.",17,0.0
+Zee,Link!,1,0.0
+Roland,[Link] […] Charge the EMP!,5,0.0
+Zee,"Do it, Kid.",3,0.0
+Kid,Neo. I believe.,3,0.0
+Morpheus,[…] Can we make it?,5,0.0
+Niobe,We ain’t come this far.,5,0.0
+Morpheus,"Now, Link!",2,0.0
+Military personnel,*cheer*,1,0.0
+Morpheus,You did it.,3,0.0
+Niobe,No. We did it.,4,-0.296
+Morpheus,You’re a hell of a pilot.,6,-0.6808
+Niobe,Some things in this world never change.,7,0.0
+Morpheus,But some things do?,4,0.0
+Niobe,"Luckily, some things do.",4,0.5106
+Zion crowd,*cheer*,1,0.0
+Zee,Link!,1,0.0
+Link,Zee?,1,0.0
+Zee,Link!,1,0.0
+Link,Zee!!!,1,0.0
+Zee,I knew you’d come. I knew it.,7,0.0
+Link,I made a promise.,4,0.3182
+Zee,You wore it.,3,0.0
+Link,Are you kidding? I [‘m never gonna take] it off!,10,0.1759
+Lock,"Three captains, one ship. I assume the other ships were lost under equally pointless circumstances?",15,-0.3182
+Niobe,"Good to see you too, Jason.",6,0.4404
+Lock,"Council’s waiting to hear an explanation. You’ll forgive me for not attending, but I have to try to salvage this debacle.",21,0.1406
+Roland,"Did I miss something, Commander? I thought we just saved the dock.",12,0.296
+Lock,"That’s the problem with you people. You can’t think for five minutes in front of your face. That EMP knocked out almost every piece of hardware and every APU. If I were the machines, I would send every Sentinel I had here right now. Saved the dock, captain? You’ve just handed it to them on a silver platter.",58,0.0258
+[?],"Come on, get it cut!",5,-0.3382
+[?],The bridge is clear.,4,0.3818
+[?],You hear that?,3,0.0
+Lock,Get that cable cut! I want that system back online.,10,-0.2714
+[man],"Commander, it’s the dock. We’ve got incoming.",7,0.0
+Lock,Order everyone to fall back. Seal the shaft. Now.,9,0.0
+[man],Move it!,2,0.0
+[man],All clear.,2,0.3818
+Lock,"Do it. *the shaft is sealed, and he looks up* Your move.",12,0.0
+Councillor Dillard,So you gave them your ship?,6,0.0
+Niobe,"That is correct, Councillor, I did.",6,0.0
+Councillor [Grace],Knowing what he planned to do with it?,8,0.0
+Niobe,*nods*,1,0.0
+Councillor Hamann,And the Oracle said nothing of this?,7,0.0
+Niobe,"She told me Neo would need my help, and when the time came I would choose to help him or not.",21,0.6597
+Councillor West,But what hope can a single vessel have against their entire defense system?,13,0.6808
+Roland,"None, it’s completely impossible, but he wouldn’t listen. He wouldn’t even take any ammunition. He was totally out of his goddamn mind.",22,-0.631
+Morpheus,"No, he wasn’t. Neo is doing what he believes he must do. I don’t know if what he’s doing is right, and I don’t know if he’ll reach the machine city. And if he does, I don’t know what he can do to save us. But I do know that as long as there’s a single breath in his body, he will not give up. And neither can we.",69,0.1406
+Trinity,Temperature’s dropping. Here we go.,5,0.0
+Neo,"We’re over the fields, aren’t we?",6,0.0
+Trinity,How do you know that?,5,0.0
+Neo,I can feel them.,4,0.0
+Neo,Over there. There’s our path. Can you see it? Three lines.,11,0.0
+Trinity,Power lines.,2,0.0
+Neo,Follow them.,2,0.0
+[Officer Wirtz],What are they doing?,4,0.0
+[man],I don’t know. Lieutenant!,4,0.0
+Lock,God damn it. […],4,-0.1531
+[man],"What do we do now, Commander?",6,0.0
+Lock,It is now a matter of time. The machines will breach the walls of the city. I recommend that the Council join the rest of the non-military personnel inside the Temple.,31,0.5859
+Councillor Grace,How long do we have?,5,0.0
+Lock,"Two hours. Maybe less. My men have begun fortifying the entrance with enough artillery to make our last stand. Beyond that, there isn’t anything more I can do.",28,0.0
+Councillor Dillard,"Commander, do you think that we have any chance of surviving?",11,0.4939
+Lock,"If I were you, Councillor, I wouldn’t ask me that question. I would as him *motions with hand toward Morpheus*",20,0.4939
+Councillor Dillard,Why?,1,0.0
+Lock,Because he’s the one who believes in miracles.,8,0.0
+Neo,"There, those mountains. That’s it.",5,0.0
+Trinity,Do you see what’s out there?,6,0.0
+Neo,Yes.,1,0.4019
+Trinity,"If you tell me we’ll make it, I’ll believe you.",10,0.0
+Neo,We’ll make it. We have to.,6,0.0
+Trinity,Sentinels!,1,0.0
+Neo,There’s too many.,3,0.0
+Trinity,"Gotcha! Come on, Neo, I need help here!",8,0.508
+Neo,I can’t beat them.,4,0.0
+Trinity,What’ll we do?,3,0.0
+Neo,"Go up, over them.",4,0.0
+Trinity,What?,1,0.0
+Neo,The sky… it’s the only way.,6,0.0
+Trinity,Then up we go.,4,0.0
+Trinity,Beautiful.,1,0.5994
+Neo,"Pump the igniter, the ship will start. Again, slowly. Now!",10,0.0
+Neo,Trin? Trinity? Trinity???,3,0.0
+Trinity,I’m here.,2,0.0
+Neo,Where?,1,0.0
+Trinity,Here.,1,0.0
+Neo,We made it.,3,0.0
+Trinity,You said we would.,4,0.0
+Neo,"It’s unbelievable, Trin. Lights everywhere. Like the whole thing was built with light. I wish you could see what I see.",21,0.7184
+Trinity,You’ve already shown me so much.,6,0.0
+Neo,"What is it, Trinity? What’s wrong?",6,-0.5362
+Trinity,"I can’t come with you, Neo. I’ve gone as far as I can.",13,0.0
+Neo,"Why? Oh, no. Oh no, no, no.",7,-0.7783
+Trinity,It’s all right. It’s time. I’ve done all that I could do. Now you have to do the rest. You have to finish it. You have to save Zion.,29,0.4939
+Neo,I can’t. Not without you.,5,0.0
+Trinity,"Yes, you can. You will. I believe it, I always have.",11,0.4019
+Neo,Trinity… Trinity. You can’t die. You can’t. You can’t.,9,-0.5994
+Trinity,"Yes, I can. You brought me back once, but not this time.",12,0.2144
+Neo,*sniffs*,1,0.0
+Trinity,Do you remember… on that roof after you caught me… the last thing I said to you?,17,0.0
+Neo,You said: “I’m sorry.”,4,0.0
+Trinity,"That was my last thought. I wished I had one more chance, to say what really mattered, to say how much I loved you, how grateful I was for every moment I was with you. But by the time [I knew I’d] said what I wanted to, it was too late. But you brought me back. You gave me my wish. One more chance to say what I really wanted to say… Kiss me, once more. Kiss me.",78,0.9583
+Neo,*sobs*,1,0.0
+Lock,[giving orders…] Get that damn thing mounted. {a digger breaches the city dome} Hurry.,14,-0.4019
+[man2],"Let’s go, let’s go, let’s go!",6,0.0
+Link,"Neo. If you’re gonna do something, you better do it quick.",11,0.4404
+Neo,"I only ask to say what I’ve come to say, after that, do what you want and I won’t try to stop you.",23,-0.2263
+Deus Ex Machina,Speak.,1,0.0
+Neo,"The program ‘Smith’ has grown beyond your control. Soon he will spread through this city as he spread through the Matrix. You cannot stop him, but I can.",28,0.1139
+Deus Ex Machina,We don’t need you. We need nothing.,7,0.0
+Neo,"If that’s true, then I’ve made a mistake and you should kill me now.",14,-0.6486
+Deus Ex Machina,What do you want?,4,0.0772
+Neo,Peace.,1,0.5423
+Niobe,What are they doing? *to Morpheus* What are you doing!?,10,0.0
+Lock,Morpheus!,1,0.0
+Deus Ex Machina,And if you fail?,4,-0.5423
+Neo,I won’t.,2,0.0
+Niobe,{looks up and sees sentinels slowly circling} Neo.,8,0.0
+Morpheus,He fights for us.,4,-0.4019
+Smith/Oracle,"Mr. Anderson, welcome back. We missed you. You like what I’ve done with the place?",15,0.5106
+Neo,It ends tonight.,3,0.0
+Smith/Oracle,I know it does – I’ve seen it. That’s why the rest of me is just going to enjoy the show – we already know that I’m the one that beats you.,32,0.4939
+{Super Burly Brawl part 1,spinning/flying battle},2,0.0
+Smith/Oracle,"Can you feel it, Mr. Anderson, closing in on you? Well, I can. I really should thank you for it, after all, it was your life that taught me the purpose of all life. The purpose of life is to end.",41,0.5965
+{Super Burly Brawl part 2,flying battle},2,0.0
+Smith/Oracle,"Why, Mr. Anderson, why? Why, why do you do it? Why, why get up? Why keep fighting? Do you believe you’re fighting for something, for more than your survival? Can you tell me what it is, do you even know? Is it freedom or truth, perhaps peace – could it be for love? Illusions, Mr. Anderson, vagaries of perception. Temporary constructs of a feeble human intellect trying desperately to justify an existence that is without meaning or purpose. And all of them as artificial as the Matrix itself. Although, only a human mind could invent something as insipid as love. You must be able to see it, Mr. Anderson, you must know it by now! You can’t win, it’s pointless to keep fighting! Why, Mr. Anderson, why, why do you persist?",131,0.9376
+Neo,Because I choose to.,4,0.0
+{Super Burly Brawl part 3,crater battle},2,0.0
+Smith/Oracle,This is my world! My world!,6,0.0
+Smith/Oracle,"Wait… I’ve seen this. This is it, this is the end. Yes, you were laying right there, just like that, and I… I… I stand here, right here, I’m… I’m supposed to say something. I say… Everything that has a beginning has an end, Neo.",45,0.6369
+Smith/Oracle,"What? What did I just say? No… No, this isn’t right, this can’t be right. Get away from me!",19,-0.4314
+Neo,What are you afraid of?,5,0.0
+Smith/Oracle,It’s a trick!,3,-0.126
+Neo,"You were right, Smith. You were always right. It was inevitable.",11,0.0
+Smith/Oracle,Is it over?,3,0.0
+Smith/Oracle,"Oh, no, no, no. No, it’s not fair.",8,-0.8299
+Deus Ex Machina,It is done.,3,0.0
+Lock,It doesn’t make sense.,4,0.0
+Morpheus,He did it.,3,0.0
+Kid,"He saved us. He saved us. It’s over, he did it! He did it, he did it, it’s over! It’s over, he did it! He did it!",27,0.7762
+Councillor Hamann,"What is it, what happened?",5,0.0
+Kid,"Sir, he did it, sir – Neo – he did it!",11,0.0
+Councillor Hamann,Did what?,2,0.0
+Kid,"He ended the war, the machines are gone! The war is over, sir! The war is over!",17,-0.927
+Kid,"Zion! Zion! Zion, it’s over! *echoes* It’s over! The war is over! *echoes* The war is over!",17,-0.8741
+Link,*yells*,1,0.0
+Zion crowd,*cheers*,1,0.0
+Morpheus,I have imagined this moment for so long. Is this real?,11,0.0
+Niobe,"Neo, wherever you are. Thank you.",6,0.3612
+Sati,Good morning.,2,0.4404
+Oracle,"Well, now, ain’t this a surprise.",6,0.5385
+Architect,You’ve played a very dangerous game.,6,-0.2484
+Oracle,Change always is.,3,0.0
+Architect,Just how long do you think this peace is going to last?,12,0.628
+Oracle,As long as it can.,5,0.0
+Oracle,What about the others?,4,0.0
+Architect,What others?,2,0.0
+Oracle,The ones that want out.,5,0.0772
+Architect,"Obviously, they will be freed.",5,0.4019
+Oracle,I have your word?,4,0.0
+Architect,What do you think I am? Human?,7,0.0
+Sati,Oracle!,1,0.0
+Oracle,*laughs*,1,0.0
+Sati,We were afraid we might not find you.,8,0.0
+Oracle,Everything’s okay now.,3,0.2263
+Sati,"Look, look! *points at sunrise*",5,0.0
+Oracle,Just look at that! Beautiful! Did you do that?,9,0.6688
+Sati,*nods* For Neo.,3,0.0
+Oracle,That’s nice. I know he’d love it.,7,0.7906
+Sati,Will we ever see him again?,6,0.0
+Oracle,I suspect so. Someday.,4,-0.296
+Seraph,Did you always know?,4,0.0
+Oracle,"Oh no. No, I didn’t. But I believed. I believed.",10,-0.296
