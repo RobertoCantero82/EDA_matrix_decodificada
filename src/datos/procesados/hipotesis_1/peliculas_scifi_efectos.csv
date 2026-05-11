@@ -1,4 +1,4 @@
-budget,genres,id,release_date,revenue,title,year,movie_id,num_vfx
+budget,genres,id,release_date,revenue,title,year,movie_id,total_personas_efectos
 237000000,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",19995,2009-12-10,2787965087,Avatar,2009,19995,26
 260000000,"['Action', 'Adventure', 'Science Fiction']",49529,2012-03-07,284139100,John Carter,2012,49529,5
 280000000,"['Action', 'Adventure', 'Science Fiction']",99861,2015-04-22,1405403694,Avengers: Age of Ultron,2015,99861,5
