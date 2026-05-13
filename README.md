@@ -18,24 +18,24 @@ La película estableció un nuevo estándar de inversión en películas de cienc
 
 #### 2.- **La realidad como simulación: de la ficción a la cultura popular**
 
-La saga *The Matrix* consolidó la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) como un debate presente tanto en la cultura popular como en el mundo académico. A través del análisis de tendencias de búsqueda en Google y de la producción de papers científicos, exploraremos si la saga actuó como catalizador del interés por esta teoría más allá de la ficción.
+La saga *The Matrix* consolidó la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) como un debate presente en la cultura popular. A través del análisis de sus conceptos en la literatura y, más adelante,en plataformas como YouTube, exploraré si la saga sigue siendo relevante.
 
 #### 3.- **El declive de la saga: ¿motivada por el descenso de calidad?**
 
-Se propone que con una mayor narrativa y más términos complejos, menor es la conexión emocional y la valoración del público general. En realidad, quizás las películas no eran peores, sino que no llegaron a ser comprendidas.
+Se propone que con una mayor narrativa y más términos complejos, menor es la conexión emocional y la valoración del público general. En realidad, quizás las películas no eran peores, sino que no llegaron a ser comprendidas. Busco si realmente la saga perdió calidad cinematográfica o es que cambió la fórmula que hizo de _The Matrix_ una de las mejores películas de ciencia ficción de la historia moderna.
 
 ## 🔌 Datos
 
 Dado que la temática de las hipótesis es variada, también lo serán las distintas fuentes de datos que tengo que utilizar para poder contrastarlas. **A continuación muestro cada hipótesis y las fuentes** que serán utilizadas:
 
 #### Fuentes Hipótesis 1 (__The Matrix_ revolucionó el género de la ciencia ficción_)
-Utilizo datasets de métricas de cine, obtenidos de Kaggle. En concreto, uso [IMDb Dataset](https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset) y [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+Utilizo **datasets** de métricas de cine, obtenidos de **Kaggle**. En concreto, uso datasets de [Tmdb](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata), con los que puedo estudiar los presupuestos de las películas por año y la cantidad de especialistas en efectos especiales que han trabajado en ciencia ficción en las últimas décadas.
 
 #### Fuentes Hipótesis 2 (_La realidad como simulación: ciencia ficción vs papers_)
-Para contrastar la hipótesis uso las **librerías arXiv y scholarly**. Además, también miraré si me resulta de utilidad la API de [OpenAlex](https://openalex.org/). Aquí debajo muestro un ejemplo del uso de la librería de arXiv para poder encontrar papers científicos que remitan a conceptos de simulación.
+Para contrastar la hipótesis uso la librería arXiv. También utilizo **Google Ngrams**, que es una herramienta de Google que analiza la frecuencia con la que aparecen palabras o frases en millones de libros digitalizados a lo largo del tiempo. Y para adentrarme en **YouTube**, utilizaré su API para investigar vídeos que toquen temas relacionados con la saga.
 
 #### Fuentes Hipótesis 3 (_El declive de la saga: ¿motivada por el descenso de calidad?_)
-Para acabar he eligo unos datasets muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en Kaggle bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts). Para el procesamiento de las transcripciones se utilizarán dos librerías especializadas en procesamiento de lenguaje natural: NLTK y SpaCy.
+Para acabar he elegido unos **datasets** muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en **Kaggle** bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts). Para el procesamiento de las transcripciones se utilizarán dos librerías especializadas en procesamiento de lenguaje natural: **NLTK y SpaCy**. Y dado que el tercero no me valía, he tenido que hacer **webscrapping** para crear el csv correspondiente. 
 
 ## 💻 Tecnologías Utilizadas
 
