@@ -16,9 +16,9 @@ Este EDA (Análisis Exploratorio de Datos) nace precisamente de esa batalla de a
 
 La película estableció un nuevo estándar de inversión en películas de ciencia ficción. A partir de entonces, las películas del género optaron por impulsar los efectos digitales, con lo que los presupuestos y los especialistas en VFX aumentaron en número por el uso de nuevas tecnologías para dejar con la boca abierta a los espectadores.
 
-#### 2.- **La realidad como simulación: ciencia ficción vs papers**
+#### 2.- **La realidad como simulación: de la ficción a la cultura popular**
 
-Existe un incremento significativo en la producción académica sobre la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) en el campo de la Astrofísica y la Cosmología a raíz del estreno de _The Matrix_, consolidando a la saga como un referente más allá de la ficción.
+La saga *The Matrix* consolidó la [_Teoría de la Simulación_](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_simulaci%C3%B3n) como un debate presente tanto en la cultura popular como en el mundo académico. A través del análisis de tendencias de búsqueda en Google y de la producción de papers científicos, exploraremos si la saga actuó como catalizador del interés por esta teoría más allá de la ficción.
 
 #### 3.- **El declive de la saga: ¿motivada por el descenso de calidad?**
 
@@ -35,19 +35,19 @@ Utilizo datasets de métricas de cine, obtenidos de Kaggle. En concreto, uso [IM
 Para contrastar la hipótesis uso las **librerías arXiv y scholarly**. Además, también miraré si me resulta de utilidad la API de [OpenAlex](https://openalex.org/). Aquí debajo muestro un ejemplo del uso de la librería de arXiv para poder encontrar papers científicos que remitan a conceptos de simulación.
 
 #### Fuentes Hipótesis 3 (_El declive de la saga: ¿motivada por el descenso de calidad?_)
-Para acabar he eligo unos datasets muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en Kaggle bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts).
+Para acabar he eligo unos datasets muy curiosos, ya que cada uno de ellos contiene las transcripciones de las películas, que me servirán para estudiar si los guiones eran peores o, simplemente, se fueron complicando. Los datasets están agrupados en Kaggle bajo el nombre [The Matrix](https://www.kaggle.com/datasets/nixongeno/the-matrix-movie-transcripts). Para el procesamiento de las transcripciones se utilizarán dos librerías especializadas en procesamiento de lenguaje natural: NLTK y SpaCy.
 
 ## 💻 Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.12
 
-* **Análisis de datos:** Pandas, NumPy.
+* **Análisis de datos:** Pandas, NumPy
 
-* **Visualización:** Matplotlib.
+* **Visualización:** Matplotlib / Seaborn
 
-* **Procesamiento de Lenguaje:** NLTK / SpaCy (para análisis de guiones).
+* **Procesamiento de Lenguaje:** NLTK / SpaCy (para análisis de guiones)
 
-* **Apoyo presentación y archivos:** Gemini (Nano Banana 2)
+* **Apoyo presentación y archivos:** Gemini (Nano Banana 2) 
 
 ## 💾 Estructura del [Repositorio](https://github.com/RobertoCantero82/EDA_matrix_decodificada)
 
